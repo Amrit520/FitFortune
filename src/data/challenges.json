@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 1,
+    "name": "30-Day Cardio Blast",
+    "description": "A challenge designed to improve your cardiovascular endurance with daily cardio workouts.",
+    "duration": 30,
+    "category": "workout",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Run for 20 minutes at a moderate pace",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Cycle for 30 minutes, focusing on steady speed",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Perform a 25-minute HIIT session",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Certificate of Participation",
+      "silver": "Fitness Band",
+      "gold": "Trophy"
+    },
+    "tips": [
+      "Stay hydrated",
+      "Warm up before starting",
+      "Maintain a steady pace"
+    ],
+    "imageUrl": "https://example.com/images/challenge1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "14-Day Strength Challenge",
+    "description": "Boost your muscle strength with bodyweight exercises over 14 days.",
+    "duration": 14,
+    "category": "workout",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Do 3 sets of push-ups (10 reps each)",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Perform 3 sets of squats (15 reps each)",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Complete 3 sets of lunges (10 reps each per leg)",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Digital Badge",
+      "silver": "Gym Bag",
+      "gold": "Fitness Tracker"
+    },
+    "tips": [
+      "Focus on form",
+      "Rest adequately",
+      "Increase repetitions gradually"
+    ],
+    "imageUrl": "https://example.com/images/challenge2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "21-Day Flexibility Journey",
+    "description": "Improve your flexibility and reduce muscle tension with daily stretching routines.",
+    "duration": 21,
+    "category": "mindfulness",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Perform a full-body stretching routine for 15 minutes",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Hold each stretch for at least 30 seconds",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Focus on deep breathing during stretches",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Yoga Mat",
+      "silver": "Stretch Band",
+      "gold": "Personal Training Session"
+    },
+    "tips": [
+      "Hold stretches steadily",
+      "Breathe deeply",
+      "Avoid bouncing"
+    ],
+    "imageUrl": "https://example.com/images/challenge3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "10-Day Mindful Meditation",
+    "description": "Enhance mental clarity and reduce stress with daily meditation sessions.",
+    "duration": 10,
+    "category": "mindfulness",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Meditate for 10 minutes focusing on your breath",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Practice a guided meditation session for 15 minutes",
+        "points": 15,
+        "verificationMethod": "audio"
+      },
+      {
+        "day": 3,
+        "task": "Write down your reflections after meditation",
+        "points": 20,
+        "verificationMethod": "journal entry"
+      }
+    ],
+    "rewards": {
+      "bronze": "Meditation Guide",
+      "silver": "Aromatherapy Candle",
+      "gold": "Retreat Voucher"
+    },
+    "tips": [
+      "Find a quiet space",
+      "Focus on your breath",
+      "Be consistent"
+    ],
+    "imageUrl": "https://example.com/images/challenge4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "7-Day Clean Eating Challenge",
+    "description": "Kickstart your nutrition journey with a week of clean, balanced meals.",
+    "duration": 7,
+    "category": "nutrition",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Prepare a clean, balanced breakfast",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Cook a healthy lunch using fresh ingredients",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Plan a nutritious dinner with lean protein",
+        "points": 20,
+        "verificationMethod": "recipe submission"
+      }
+    ],
+    "rewards": {
+      "bronze": "Recipe eBook",
+      "silver": "Meal Planner",
+      "gold": "Cooking Class"
+    },
+    "tips": [
+      "Plan your meals",
+      "Read ingredient labels",
+      "Include fresh produce"
+    ],
+    "imageUrl": "https://example.com/images/challenge5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "30-Day HIIT Extreme",
+    "description": "Push your limits with high-intensity interval training designed to burn fat fast.",
+    "duration": 30,
+    "category": "workout",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Complete a 20-minute HIIT session with max effort",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Incorporate plyometric exercises into your HIIT routine",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Perform a HIIT session with increased intensity",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Workout Towel",
+      "silver": "Fitness Headband",
+      "gold": "Gym Membership"
+    },
+    "tips": [
+      "Warm up properly",
+      "Listen to your body",
+      "Cool down after workouts"
+    ],
+    "imageUrl": "https://example.com/images/challenge6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "15-Day Core Crusher",
+    "description": "Strengthen your core muscles with targeted exercises over 15 days.",
+    "duration": 15,
+    "category": "workout",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Perform 3 sets of planks, holding for 30 seconds each",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Complete 3 sets of bicycle crunches (20 reps each)",
+        "points": 15,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 3,
+        "task": "Do 3 sets of leg raises (15 reps each)",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Ab Roller",
+      "silver": "Resistance Band",
+      "gold": "Personal Coaching"
+    },
+    "tips": [
+      "Focus on form",
+      "Engage your core",
+      "Breathe during exercises"
+    ],
+    "imageUrl": "https://example.com/images/challenge7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "28-Day Yoga Flow",
+    "description": "Enhance your mind-body connection with daily yoga sessions.",
+    "duration": 28,
+    "category": "mindfulness",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Perform a 20-minute yoga flow focusing on balance",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Practice sun salutations for 15 minutes",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Hold a series of yoga poses to improve flexibility",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Yoga Mat",
+      "silver": "Yoga Block",
+      "gold": "Yoga Retreat Discount"
+    },
+    "tips": [
+      "Practice consistently",
+      "Stay mindful",
+      "Adapt poses as needed"
+    ],
+    "imageUrl": "https://example.com/images/challenge8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "21-Day Vegan Nutrition Boost",
+    "description": "Adopt a plant-based diet with nutritious vegan meal plans.",
+    "duration": 21,
+    "category": "nutrition",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Prepare a vegan breakfast rich in protein",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Cook a hearty vegan lunch with plenty of vegetables",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Try a new vegan dinner recipe",
+        "points": 20,
+        "verificationMethod": "recipe submission"
+      }
+    ],
+    "rewards": {
+      "bronze": "Vegan Recipe Book",
+      "silver": "Superfood Pack",
+      "gold": "Nutrition Consultation"
+    },
+    "tips": [
+      "Balance your meals",
+      "Include protein sources",
+      "Experiment with new recipes"
+    ],
+    "imageUrl": "https://example.com/images/challenge9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "30-Day Total Body Transformation",
+    "description": "A comprehensive challenge combining workout, nutrition, and mindfulness for overall fitness.",
+    "duration": 30,
+    "category": "hybrid",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Complete a full-body workout and log your meal",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Meditate for 10 minutes and follow a healthy meal plan",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Stretch thoroughly and record your workout progress",
+        "points": 20,
+        "verificationMethod": "self-report"
+      }
+    ],
+    "rewards": {
+      "bronze": "Training Journal",
+      "silver": "Customized Meal Plan",
+      "gold": "Personal Trainer Session"
+    },
+    "tips": [
+      "Stay consistent",
+      "Track your progress",
+      "Rest and recover"
+    ],
+    "imageUrl": "https://example.com/images/challenge10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "7-Day Morning Energizer",
+    "description": "Start your day with quick workouts and healthy breakfast tips to boost energy.",
+    "duration": 7,
+    "category": "hybrid",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Do a quick 10-minute workout and prepare a healthy breakfast",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Stretch for 10 minutes and journal your morning thoughts",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Go for a brisk walk and share a photo of your breakfast",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Digital Recipe Book",
+      "silver": "Portable Blender",
+      "gold": "Healthy Lifestyle Coaching"
+    },
+    "tips": [
+      "Set a morning routine",
+      "Prepare the night before",
+      "Stay motivated"
+    ],
+    "imageUrl": "https://example.com/images/challenge11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "14-Day Strength & Stretch",
+    "description": "Balance your workout with a combination of strength training and flexibility exercises.",
+    "duration": 14,
+    "category": "hybrid",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Perform strength exercises followed by a 10-minute stretch",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Complete a balanced routine combining weights and flexibility",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Log your progress with strength and stretching exercises",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Resistance Band",
+      "silver": "Yoga Strap",
+      "gold": "Dual Training Session"
+    },
+    "tips": [
+      "Mix up your routine",
+      "Listen to your body",
+      "Focus on technique"
+    ],
+    "imageUrl": "https://example.com/images/challenge12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "21-Day Mind-Body Balance",
+    "description": "Cultivate mental well-being and physical strength simultaneously with balanced daily practices.",
+    "duration": 21,
+    "category": "hybrid",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Start with a 15-minute meditation followed by light exercise",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Practice a mix of cardio and mindfulness activities",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Document your balance routine in a journal",
+        "points": 20,
+        "verificationMethod": "journal entry"
+      }
+    ],
+    "rewards": {
+      "bronze": "Mindfulness Journal",
+      "silver": "Balance Ball",
+      "gold": "Wellness Retreat Voucher"
+    },
+    "tips": [
+      "Meditate daily",
+      "Incorporate light workouts",
+      "Stay positive"
+    ],
+    "imageUrl": "https://example.com/images/challenge13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "10-Day Sugar Detox",
+    "description": "Eliminate added sugars from your diet for a healthier lifestyle in just 10 days.",
+    "duration": 10,
+    "category": "nutrition",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Eliminate all added sugars from your meals",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Replace sugary snacks with fruit alternatives",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Keep a food diary noting any sugar cravings",
+        "points": 20,
+        "verificationMethod": "diary entry"
+      }
+    ],
+    "rewards": {
+      "bronze": "Detox Guide",
+      "silver": "Healthy Snack Pack",
+      "gold": "Nutritional Consultation"
+    },
+    "tips": [
+      "Read labels",
+      "Substitute with natural sweeteners",
+      "Avoid processed foods"
+    ],
+    "imageUrl": "https://example.com/images/challenge14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "30-Day Home Workout",
+    "description": "Stay fit without a gym by following daily home workout routines.",
+    "duration": 30,
+    "category": "workout",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Follow a 20-minute home workout routine",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Perform a series of bodyweight exercises",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Finish with a cool down and stretching session",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Workout Plan PDF",
+      "silver": "Home Gym Equipment",
+      "gold": "Online Coaching Session"
+    },
+    "tips": [
+      "Create a dedicated space",
+      "Use bodyweight exercises",
+      "Stay disciplined"
+    ],
+    "imageUrl": "https://example.com/images/challenge15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "21-Day HIIT & Core",
+    "description": "Combine high-intensity intervals with core strengthening exercises for a challenging workout.",
+    "duration": 21,
+    "category": "hybrid",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Do a 15-minute HIIT session focused on core exercises",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Incorporate planks and crunches into your HIIT routine",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Record a video of your HIIT and core workout",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Fitness App Access",
+      "silver": "Core Trainer",
+      "gold": "Personalized Workout Gear"
+    },
+    "tips": [
+      "Keep intensity high",
+      "Focus on core engagement",
+      "Rest between sets"
+    ],
+    "imageUrl": "https://example.com/images/challenge16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "14-Day Mental Clarity Challenge",
+    "description": "Enhance focus and reduce stress through daily mindfulness and breathing exercises.",
+    "duration": 14,
+    "category": "mindfulness",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Meditate for 10 minutes focusing on clarity",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Practice deep breathing exercises for 10 minutes",
+        "points": 15,
+        "verificationMethod": "audio"
+      },
+      {
+        "day": 3,
+        "task": "Journal your thoughts and feelings",
+        "points": 20,
+        "verificationMethod": "journal entry"
+      }
+    ],
+    "rewards": {
+      "bronze": "Mindfulness eBook",
+      "silver": "Relaxation Kit",
+      "gold": "Spa Voucher"
+    },
+    "tips": [
+      "Practice deep breathing",
+      "Stay in the moment",
+      "Journal daily"
+    ],
+    "imageUrl": "https://example.com/images/challenge17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "28-Day Strength Endurance",
+    "description": "Build muscle endurance with daily resistance exercises and gradual weight increases.",
+    "duration": 28,
+    "category": "workout",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Complete a strength circuit with weights",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Perform endurance exercises with moderate weights",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Track your repetitions and increase gradually",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Resistance Band Set",
+      "silver": "Protein Powder",
+      "gold": "Personal Training Package"
+    },
+    "tips": [
+      "Increase weight gradually",
+      "Maintain proper form",
+      "Stay hydrated"
+    ],
+    "imageUrl": "https://example.com/images/challenge18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "7-Day Quick Fix Nutrition",
+    "description": "Jumpstart your diet with a week of balanced and quick meal plans for fast results.",
+    "duration": 7,
+    "category": "nutrition",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Plan and prepare a balanced breakfast",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Log your meals for the day",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Try a new healthy recipe for dinner",
+        "points": 20,
+        "verificationMethod": "recipe submission"
+      }
+    ],
+    "rewards": {
+      "bronze": "Meal Prep Guide",
+      "silver": "Healthy Snacks",
+      "gold": "Nutritionist Consultation"
+    },
+    "tips": [
+      "Prep meals in advance",
+      "Include variety",
+      "Focus on whole foods"
+    ],
+    "imageUrl": "https://example.com/images/challenge19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "30-Day Pilates Program",
+    "description": "Improve your core strength and flexibility with daily Pilates routines.",
+    "duration": 30,
+    "category": "workout",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Follow a 20-minute Pilates routine focusing on core strength",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Practice controlled movements in Pilates exercises",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Complete a full Pilates session and record your progress",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Pilates Mat",
+      "silver": "Pilates DVD",
+      "gold": "In-person Class Voucher"
+    },
+    "tips": [
+      "Engage your core",
+      "Focus on breathing",
+      "Stay consistent"
+    ],
+    "imageUrl": "https://example.com/images/challenge20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "10-Day Meditation & Journaling",
+    "description": "Combine meditation with reflective journaling to achieve mental clarity.",
+    "duration": 10,
+    "category": "mindfulness",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Meditate for 10 minutes and then journal your experience",
+        "points": 10,
+        "verificationMethod": "journal entry"
+      },
+      {
+        "day": 2,
+        "task": "Try a guided meditation followed by reflective writing",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Share a brief summary of your meditation insights",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Journal",
+      "silver": "Meditation App Subscription",
+      "gold": "Mindfulness Workshop"
+    },
+    "tips": [
+      "Reflect on your day",
+      "Write freely",
+      "Practice gratitude"
+    ],
+    "imageUrl": "https://example.com/images/challenge21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "14-Day Low Carb Challenge",
+    "description": "Reduce carbohydrate intake and enjoy a healthier diet with low-carb meal plans.",
+    "duration": 14,
+    "category": "nutrition",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Prepare a low-carb breakfast with eggs and vegetables",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Replace rice or pasta with cauliflower alternatives",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Plan a low-carb dinner focusing on lean protein",
+        "points": 20,
+        "verificationMethod": "recipe submission"
+      }
+    ],
+    "rewards": {
+      "bronze": "Low Carb Recipe Book",
+      "silver": "Grocery List Planner",
+      "gold": "Diet Consultation"
+    },
+    "tips": [
+      "Read food labels",
+      "Replace carbs with vegetables",
+      "Stay consistent"
+    ],
+    "imageUrl": "https://example.com/images/challenge22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "21-Day Running Program",
+    "description": "Build stamina and improve speed with a structured running plan over 21 days.",
+    "duration": 21,
+    "category": "workout",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Run for 20 minutes at a comfortable pace",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Incorporate intervals into your run",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Cool down with a 10-minute walk after running",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Running Log",
+      "silver": "Reflective Vest",
+      "gold": "Race Entry Voucher"
+    },
+    "tips": [
+      "Set realistic goals",
+      "Track your progress",
+      "Wear proper shoes"
+    ],
+    "imageUrl": "https://example.com/images/challenge23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "30-Day Interval Training",
+    "description": "Alternate between high and low intensity workouts for optimal fat burn.",
+    "duration": 30,
+    "category": "workout",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Complete a 20-minute interval training session",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Alternate between sprinting and walking for intervals",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Increase your interval intensity slightly",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Workout Shorts",
+      "silver": "Sweatband",
+      "gold": "High-Performance Sneakers"
+    },
+    "tips": [
+      "Monitor your heart rate",
+      "Push your limits safely",
+      "Cool down properly"
+    ],
+    "imageUrl": "https://example.com/images/challenge24.jpg"
+  },
+  {
+    "id": 25,
+    "name": "7-Day Mindful Eating",
+    "description": "Adopt mindful eating habits to improve digestion and meal satisfaction.",
+    "duration": 7,
+    "category": "nutrition",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Practice eating slowly and savor each bite",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Eliminate distractions during meals",
+        "points": 15,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 3,
+        "task": "Reflect on your hunger cues before eating",
+        "points": 20,
+        "verificationMethod": "diary entry"
+      }
+    ],
+    "rewards": {
+      "bronze": "Mindful Eating Guide",
+      "silver": "Portion Control Tools",
+      "gold": "Healthy Cooking Class"
+    },
+    "tips": [
+      "Eat slowly",
+      "Chew thoroughly",
+      "Savor each bite"
+    ],
+    "imageUrl": "https://example.com/images/challenge25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "21-Day Bodyweight Burn",
+    "description": "Use your own body weight to achieve a full-body workout over 21 days.",
+    "duration": 21,
+    "category": "workout",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Perform a circuit of push-ups, squats, and lunges",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Repeat the circuit with increased repetitions",
+        "points": 15,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 3,
+        "task": "Finish with a 5-minute cool down stretch",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Workout Poster",
+      "silver": "Fitness Bottle",
+      "gold": "Training Session"
+    },
+    "tips": [
+      "Focus on technique",
+      "Maintain proper posture",
+      "Rest when needed"
+    ],
+    "imageUrl": "https://example.com/images/challenge26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "14-Day Flex & Flow",
+    "description": "Combine dynamic stretches and fluid movements to enhance mobility over 14 days.",
+    "duration": 14,
+    "category": "mindfulness",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Engage in a 15-minute dynamic stretching routine",
+        "points": 10,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 2,
+        "task": "Practice fluid movements combined with deep breathing",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Perform a yoga flow sequence focusing on flexibility",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Flexibility Band",
+      "silver": "Yoga DVD",
+      "gold": "Mobility Workshop"
+    },
+    "tips": [
+      "Warm up first",
+      "Breathe deeply",
+      "Focus on movement"
+    ],
+    "imageUrl": "https://example.com/images/challenge27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "30-Day Hybrid Health Challenge",
+    "description": "Integrate workout, nutrition, and mindfulness practices for overall well-being.",
+    "duration": 30,
+    "category": "hybrid",
+    "difficulty": "advanced",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Complete a workout session and follow a healthy meal plan",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Meditate for 10 minutes and record your workout",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Do a full-body stretch and log your nutrition",
+        "points": 20,
+        "verificationMethod": "video"
+      }
+    ],
+    "rewards": {
+      "bronze": "Health Tracker",
+      "silver": "Personalized Plan",
+      "gold": "Wellness Retreat"
+    },
+    "tips": [
+      "Balance all aspects",
+      "Monitor your progress",
+      "Stay motivated"
+    ],
+    "imageUrl": "https://example.com/images/challenge28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "10-Day Upper Body Focus",
+    "description": "Target your arms, shoulders, and chest with daily upper body workouts.",
+    "duration": 10,
+    "category": "workout",
+    "difficulty": "intermediate",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Do 3 sets of push-ups targeting chest and arms",
+        "points": 10,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 2,
+        "task": "Perform shoulder presses with moderate weight",
+        "points": 15,
+        "verificationMethod": "video"
+      },
+      {
+        "day": 3,
+        "task": "Finish with tricep dips and record your reps",
+        "points": 20,
+        "verificationMethod": "photo"
+      }
+    ],
+    "rewards": {
+      "bronze": "Resistance Gloves",
+      "silver": "Workout Shirt",
+      "gold": "Strength Training Kit"
+    },
+    "tips": [
+      "Warm up thoroughly",
+      "Focus on form",
+      "Progress gradually"
+    ],
+    "imageUrl": "https://example.com/images/challenge29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "21-Day Balanced Nutrition",
+    "description": "Learn how to create balanced meals and improve your eating habits over 21 days.",
+    "duration": 21,
+    "category": "nutrition",
+    "difficulty": "beginner",
+    "dailyTasks": [
+      {
+        "day": 1,
+        "task": "Plan a balanced meal including protein, carbs, and fats",
+        "points": 10,
+        "verificationMethod": "photo"
+      },
+      {
+        "day": 2,
+        "task": "Prepare a healthy snack that includes fruits and nuts",
+        "points": 15,
+        "verificationMethod": "self-report"
+      },
+      {
+        "day": 3,
+        "task": "Log your meals and assess your nutritional balance",
+        "points": 20,
+        "verificationMethod": "diet log"
+      }
+    ],
+    "rewards": {
+      "bronze": "Nutrition Facts Guide",
+      "silver": "Meal Prep Containers",
+      "gold": "Diet Planning Session"
+    },
+    "tips": [
+      "Plan meals ahead",
+      "Include all food groups",
+      "Stay consistent"
+    ],
+    "imageUrl": "https://example.com/images/challenge30.jpg"
+  }
+]

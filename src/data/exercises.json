@@ -1,0 +1,2468 @@
+[
+  {
+    "id": 1,
+    "name": "Push-up",
+    "category": "strength",
+    "muscleGroups": ["chest", "triceps", "shoulders"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Get into a high plank position.",
+      "Lower your body until your chest nearly touches the floor.",
+      "Push back up to the starting position."
+    ],
+    "form_tips": [
+      "Keep your core tight.",
+      "Maintain a straight line from head to heels."
+    ],
+    "benefits": [
+      "Builds upper body strength.",
+      "Engages the core muscles."
+    ],
+    "videoUrl": "http://example.com/video1",
+    "imageUrl": "http://example.com/image1",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Knee Push-up", "Incline Push-up"]
+  },
+  {
+    "id": 2,
+    "name": "Bench Press",
+    "category": "strength",
+    "muscleGroups": ["chest", "triceps", "shoulders"],
+    "difficulty": "intermediate",
+    "equipment": ["barbell", "bench"],
+    "instructions": [
+      "Lie flat on the bench with feet planted firmly.",
+      "Lower the bar slowly to your chest.",
+      "Press the bar upward until arms are extended."
+    ],
+    "form_tips": [
+      "Keep your feet flat on the ground.",
+      "Control the bar movement throughout."
+    ],
+    "benefits": [
+      "Increases chest strength.",
+      "Improves upper body stability."
+    ],
+    "videoUrl": "http://example.com/video2",
+    "imageUrl": "http://example.com/image2",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Dumbbell Bench Press", "Incline Bench Press"]
+  },
+  {
+    "id": 3,
+    "name": "Squat",
+    "category": "strength",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "advanced",
+    "equipment": ["barbell"],
+    "instructions": [
+      "Stand with feet shoulder-width apart.",
+      "Lower your body by bending your knees and hips.",
+      "Return to the standing position."
+    ],
+    "form_tips": [
+      "Keep your back straight.",
+      "Do not let your knees extend past your toes."
+    ],
+    "benefits": [
+      "Builds lower-body strength.",
+      "Improves balance and core stability."
+    ],
+    "videoUrl": "http://example.com/video3",
+    "imageUrl": "http://example.com/image3",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Bodyweight Squat", "Goblet Squat"]
+  },
+  {
+    "id": 4,
+    "name": "Deadlift",
+    "category": "strength",
+    "muscleGroups": ["back", "legs"],
+    "difficulty": "beginner",
+    "equipment": ["barbell"],
+    "instructions": [
+      "Stand with feet hip-width apart and grip the bar.",
+      "Keep your back flat and lift the bar by extending your hips and knees.",
+      "Lower the bar back to the ground with control."
+    ],
+    "form_tips": [
+      "Keep the bar close to your body.",
+      "Engage your core throughout the lift."
+    ],
+    "benefits": [
+      "Strengthens the posterior chain.",
+      "Improves overall power."
+    ],
+    "videoUrl": "http://example.com/video4",
+    "imageUrl": "http://example.com/image4",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Romanian Deadlift", "Sumo Deadlift"]
+  },
+  {
+    "id": 5,
+    "name": "Overhead Press",
+    "category": "strength",
+    "muscleGroups": ["shoulders", "triceps"],
+    "difficulty": "intermediate",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Stand with feet shoulder-width apart.",
+      "Press the dumbbells overhead until arms are fully extended.",
+      "Lower them slowly back to shoulder level."
+    ],
+    "form_tips": [
+      "Keep your core engaged.",
+      "Avoid arching your back excessively."
+    ],
+    "benefits": [
+      "Improves shoulder strength.",
+      "Enhances upper body stability."
+    ],
+    "videoUrl": "http://example.com/video5",
+    "imageUrl": "http://example.com/image5",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Seated Dumbbell Press", "Arnold Press"]
+  },
+  {
+    "id": 6,
+    "name": "Bicep Curl",
+    "category": "strength",
+    "muscleGroups": ["biceps"],
+    "difficulty": "advanced",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Stand with a dumbbell in each hand.",
+      "Curl the weights while keeping your elbows close to your torso.",
+      "Slowly lower the weights back to the starting position."
+    ],
+    "form_tips": [
+      "Avoid swinging your body.",
+      "Focus on contracting the biceps."
+    ],
+    "benefits": [
+      "Isolates and strengthens the biceps.",
+      "Improves arm definition."
+    ],
+    "videoUrl": "http://example.com/video6",
+    "imageUrl": "http://example.com/image6",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Hammer Curl", "Concentration Curl"]
+  },
+  {
+    "id": 7,
+    "name": "Tricep Dip",
+    "category": "strength",
+    "muscleGroups": ["triceps"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight", "bench"],
+    "instructions": [
+      "Sit on the edge of a bench and place your hands next to your hips.",
+      "Slide your butt off the bench and lower your body by bending your elbows.",
+      "Push back up to the starting position."
+    ],
+    "form_tips": [
+      "Keep your back close to the bench.",
+      "Lower yourself slowly to maximize tension."
+    ],
+    "benefits": [
+      "Targets the triceps.",
+      "Helps build arm strength."
+    ],
+    "videoUrl": "http://example.com/video7",
+    "imageUrl": "http://example.com/image7",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Chair Dip", "Parallel Bar Dip"]
+  },
+  {
+    "id": 8,
+    "name": "Lateral Raise",
+    "category": "strength",
+    "muscleGroups": ["shoulders"],
+    "difficulty": "intermediate",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Stand with a dumbbell in each hand at your sides.",
+      "Raise both arms out to the sides until shoulder level is reached.",
+      "Lower them slowly back to the starting position."
+    ],
+    "form_tips": [
+      "Keep a slight bend in the elbows.",
+      "Avoid using momentum to lift the weights."
+    ],
+    "benefits": [
+      "Strengthens the shoulder muscles.",
+      "Improves shoulder stability."
+    ],
+    "videoUrl": "http://example.com/video8",
+    "imageUrl": "http://example.com/image8",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Cable Lateral Raise", "Seated Lateral Raise"]
+  },
+  {
+    "id": 9,
+    "name": "Leg Press",
+    "category": "strength",
+    "muscleGroups": ["legs"],
+    "difficulty": "advanced",
+    "equipment": ["machine"],
+    "instructions": [
+      "Sit on the leg press machine with feet shoulder-width apart on the platform.",
+      "Push the platform away by extending your legs.",
+      "Slowly return to the starting position."
+    ],
+    "form_tips": [
+      "Do not lock your knees at full extension.",
+      "Keep your feet flat on the platform."
+    ],
+    "benefits": [
+      "Builds leg strength.",
+      "Targets the quadriceps and glutes."
+    ],
+    "videoUrl": "http://example.com/video9",
+    "imageUrl": "http://example.com/image9",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Single-Leg Press", "Wide Stance Press"]
+  },
+  {
+    "id": 10,
+    "name": "Chest Fly",
+    "category": "strength",
+    "muscleGroups": ["chest"],
+    "difficulty": "beginner",
+    "equipment": ["machine"],
+    "instructions": [
+      "Sit on the fly machine with your back against the pad.",
+      "Bring the handles together in front of your chest.",
+      "Slowly let the handles return to the starting position."
+    ],
+    "form_tips": [
+      "Keep a slight bend in your elbows.",
+      "Focus on squeezing the chest muscles at the peak."
+    ],
+    "benefits": [
+      "Isolates the chest muscles.",
+      "Improves muscle definition."
+    ],
+    "videoUrl": "http://example.com/video10",
+    "imageUrl": "http://example.com/image10",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Dumbbell Fly", "Incline Fly"]
+  },
+  {
+    "id": 11,
+    "name": "Cable Row",
+    "category": "strength",
+    "muscleGroups": ["back", "biceps"],
+    "difficulty": "intermediate",
+    "equipment": ["cable machine"],
+    "instructions": [
+      "Sit facing the cable row machine with feet braced.",
+      "Pull the cable towards your torso while squeezing your shoulder blades together.",
+      "Slowly extend your arms back to the starting position."
+    ],
+    "form_tips": [
+      "Keep your back straight.",
+      "Avoid leaning too far back during the pull."
+    ],
+    "benefits": [
+      "Strengthens the back muscles.",
+      "Improves posture."
+    ],
+    "videoUrl": "http://example.com/video11",
+    "imageUrl": "http://example.com/image11",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Seated Cable Row", "Wide-Grip Row"]
+  },
+  {
+    "id": 12,
+    "name": "Pull-up",
+    "category": "strength",
+    "muscleGroups": ["back", "biceps"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight", "pull-up bar"],
+    "instructions": [
+      "Grip the pull-up bar with your hands shoulder-width apart.",
+      "Pull your body upward until your chin is above the bar.",
+      "Lower yourself slowly back to a full hang."
+    ],
+    "form_tips": [
+      "Avoid swinging your body.",
+      "Focus on using your back muscles."
+    ],
+    "benefits": [
+      "Enhances upper-body strength.",
+      "Improves grip strength."
+    ],
+    "videoUrl": "http://example.com/video12",
+    "imageUrl": "http://example.com/image12",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Chin-up", "Assisted Pull-up"]
+  },
+  {
+    "id": 13,
+    "name": "Dumbbell Row",
+    "category": "strength",
+    "muscleGroups": ["back", "shoulders"],
+    "difficulty": "beginner",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Place one knee and hand on a bench for support.",
+      "With the other hand, pull the dumbbell upward to your side.",
+      "Lower the dumbbell back down with control."
+    ],
+    "form_tips": [
+      "Keep your back flat.",
+      "Squeeze your shoulder blade at the top."
+    ],
+    "benefits": [
+      "Builds back strength.",
+      "Improves unilateral stability."
+    ],
+    "videoUrl": "http://example.com/video13",
+    "imageUrl": "http://example.com/image13",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Two-Arm Dumbbell Row", "T-Bar Row"]
+  },
+  {
+    "id": 14,
+    "name": "Lunge",
+    "category": "strength",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Stand straight and take a step forward.",
+      "Lower your hips until both knees are bent at a 90-degree angle.",
+      "Push back to the starting position and alternate legs."
+    ],
+    "form_tips": [
+      "Keep your front knee over your ankle.",
+      "Maintain an upright posture."
+    ],
+    "benefits": [
+      "Improves leg strength.",
+      "Enhances balance."
+    ],
+    "videoUrl": "http://example.com/video14",
+    "imageUrl": "http://example.com/image14",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Walking Lunge", "Reverse Lunge"]
+  },
+  {
+    "id": 15,
+    "name": "Calf Raise",
+    "category": "strength",
+    "muscleGroups": ["calves"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Stand with your feet hip-width apart.",
+      "Raise your heels off the ground as high as possible.",
+      "Lower them back down slowly."
+    ],
+    "form_tips": [
+      "Perform the movement slowly for better muscle engagement.",
+      "Hold the top position for a second."
+    ],
+    "benefits": [
+      "Strengthens the calf muscles.",
+      "Improves lower leg endurance."
+    ],
+    "videoUrl": "http://example.com/video15",
+    "imageUrl": "http://example.com/image15",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Single-leg Calf Raise"]
+  },
+  {
+    "id": 16,
+    "name": "Plank",
+    "category": "strength",
+    "muscleGroups": ["core"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Assume a forearm plank position with elbows under shoulders.",
+      "Hold your body in a straight line.",
+      "Maintain the position for the designated time."
+    ],
+    "form_tips": [
+      "Engage your abdominal muscles.",
+      "Avoid sagging hips."
+    ],
+    "benefits": [
+      "Strengthens the core.",
+      "Improves overall stability."
+    ],
+    "videoUrl": "http://example.com/video16",
+    "imageUrl": "http://example.com/image16",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Side Plank", "Plank with Leg Lift"]
+  },
+  {
+    "id": 17,
+    "name": "Russian Twist",
+    "category": "strength",
+    "muscleGroups": ["core"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Sit on the floor with your knees bent.",
+      "Lean back slightly and twist your torso from side to side.",
+      "Touch the floor beside you on each side."
+    ],
+    "form_tips": [
+      "Keep your back straight.",
+      "Engage your abs during the twist."
+    ],
+    "benefits": [
+      "Enhances oblique strength.",
+      "Improves rotational stability."
+    ],
+    "videoUrl": "http://example.com/video17",
+    "imageUrl": "http://example.com/image17",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Weighted Russian Twist"]
+  },
+  {
+    "id": 18,
+    "name": "Hip Thrust",
+    "category": "strength",
+    "muscleGroups": ["glutes", "hamstrings"],
+    "difficulty": "advanced",
+    "equipment": ["barbell"],
+    "instructions": [
+      "Sit on the ground with your upper back against a bench.",
+      "Place a barbell over your hips and thrust upward.",
+      "Lower your hips back down with control."
+    ],
+    "form_tips": [
+      "Squeeze your glutes at the top.",
+      "Keep your chin tucked."
+    ],
+    "benefits": [
+      "Strengthens the glutes.",
+      "Improves hip power."
+    ],
+    "videoUrl": "http://example.com/video18",
+    "imageUrl": "http://example.com/image18",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Single-leg Hip Thrust"]
+  },
+  {
+    "id": 19,
+    "name": "Dumbbell Shrug",
+    "category": "strength",
+    "muscleGroups": ["traps"],
+    "difficulty": "beginner",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Stand upright with dumbbells in both hands.",
+      "Raise your shoulders as high as possible.",
+      "Lower them back down slowly."
+    ],
+    "form_tips": [
+      "Keep your arms straight.",
+      "Focus on contracting your traps."
+    ],
+    "benefits": [
+      "Strengthens the trapezius muscles.",
+      "Improves shoulder stability."
+    ],
+    "videoUrl": "http://example.com/video19",
+    "imageUrl": "http://example.com/image19",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Barbell Shrug"]
+  },
+  {
+    "id": 20,
+    "name": "Goblet Squat",
+    "category": "strength",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "intermediate",
+    "equipment": ["dumbbell"],
+    "instructions": [
+      "Hold a dumbbell close to your chest.",
+      "Perform a squat by lowering your hips back and down.",
+      "Return to standing while keeping the weight secure."
+    ],
+    "form_tips": [
+      "Keep your chest up.",
+      "Push through your heels."
+    ],
+    "benefits": [
+      "Strengthens the lower body.",
+      "Engages the core."
+    ],
+    "videoUrl": "http://example.com/video20",
+    "imageUrl": "http://example.com/image20",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Sumo Squat", "Split Squat"]
+  },
+  {
+    "id": 21,
+    "name": "Step-up",
+    "category": "strength",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight", "bench"],
+    "instructions": [
+      "Stand facing a bench.",
+      "Step up onto the bench with one foot, then bring the other foot up.",
+      "Step down carefully and alternate legs."
+    ],
+    "form_tips": [
+      "Keep your knee aligned with your foot.",
+      "Engage your glutes."
+    ],
+    "benefits": [
+      "Improves leg strength.",
+      "Enhances balance."
+    ],
+    "videoUrl": "http://example.com/video21",
+    "imageUrl": "http://example.com/image21",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Weighted Step-up"]
+  },
+  {
+    "id": 22,
+    "name": "Chest Press",
+    "category": "strength",
+    "muscleGroups": ["chest", "triceps"],
+    "difficulty": "beginner",
+    "equipment": ["machine"],
+    "instructions": [
+      "Sit at the chest press machine.",
+      "Push the handles forward until your arms are extended.",
+      "Slowly return to the starting position."
+    ],
+    "form_tips": [
+      "Keep your back against the seat.",
+      "Control the movement on the way back."
+    ],
+    "benefits": [
+      "Targets the chest muscles.",
+      "Improves upper-body strength."
+    ],
+    "videoUrl": "http://example.com/video22",
+    "imageUrl": "http://example.com/image22",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Dumbbell Chest Press"]
+  },
+  {
+    "id": 23,
+    "name": "Shoulder Press",
+    "category": "strength",
+    "muscleGroups": ["shoulders"],
+    "difficulty": "intermediate",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Stand or sit with dumbbells at shoulder height.",
+      "Press the weights overhead until arms are fully extended.",
+      "Lower the weights back to shoulder height."
+    ],
+    "form_tips": [
+      "Keep your core engaged.",
+      "Avoid arching your back."
+    ],
+    "benefits": [
+      "Strengthens the shoulder muscles.",
+      "Enhances upper body stability."
+    ],
+    "videoUrl": "http://example.com/video23",
+    "imageUrl": "http://example.com/image23",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Arnold Press", "Seated Shoulder Press"]
+  },
+  {
+    "id": 24,
+    "name": "Incline Bench Press",
+    "category": "strength",
+    "muscleGroups": ["upper chest", "shoulders"],
+    "difficulty": "advanced",
+    "equipment": ["barbell", "bench"],
+    "instructions": [
+      "Set an incline bench at a 30-45 degree angle.",
+      "Lie back and press the bar upward until your arms are extended.",
+      "Lower the bar slowly back to your chest."
+    ],
+    "form_tips": [
+      "Keep your shoulder blades retracted.",
+      "Control the descent of the bar."
+    ],
+    "benefits": [
+      "Targets the upper chest.",
+      "Improves shoulder strength."
+    ],
+    "videoUrl": "http://example.com/video24",
+    "imageUrl": "http://example.com/image24",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Dumbbell Incline Press"]
+  },
+  {
+    "id": 25,
+    "name": "Decline Push-up",
+    "category": "strength",
+    "muscleGroups": ["chest", "triceps"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight", "bench"],
+    "instructions": [
+      "Place your feet on a bench and your hands on the floor.",
+      "Perform a push-up by lowering your chest toward the floor.",
+      "Push back up until your arms are extended."
+    ],
+    "form_tips": [
+      "Keep your body in a straight line.",
+      "Engage your core throughout."
+    ],
+    "benefits": [
+      "Targets the lower chest.",
+      "Builds upper body strength."
+    ],
+    "videoUrl": "http://example.com/video25",
+    "imageUrl": "http://example.com/image25",
+    "estimatedCaloriesBurn": 150,
+    "variations": ["Standard Push-up", "Incline Push-up"]
+  },
+  {
+    "id": 26,
+    "name": "Running",
+    "category": "cardio",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "advanced",
+    "equipment": ["running shoes", "outdoor track"],
+    "instructions": [
+      "Warm up with a brisk walk for 5 minutes.",
+      "Run at a steady pace for the designated time.",
+      "Cool down with a slow jog or walk."
+    ],
+    "form_tips": [
+      "Keep an upright posture.",
+      "Breathe steadily throughout your run."
+    ],
+    "benefits": [
+      "Improves cardiovascular endurance.",
+      "Burns a high number of calories."
+    ],
+    "videoUrl": "http://example.com/video26",
+    "imageUrl": "http://example.com/image26",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Interval Running", "Trail Running"]
+  },
+  {
+    "id": 27,
+    "name": "Cycling",
+    "category": "cardio",
+    "muscleGroups": ["legs"],
+    "difficulty": "beginner",
+    "equipment": ["bicycle"],
+    "instructions": [
+      "Warm up by cycling at a low resistance for 5 minutes.",
+      "Increase resistance and maintain a steady pace.",
+      "Cool down by gradually reducing the resistance."
+    ],
+    "form_tips": [
+      "Keep your back straight and relaxed.",
+      "Maintain a smooth pedal stroke."
+    ],
+    "benefits": [
+      "Enhances leg strength.",
+      "Boosts cardiovascular fitness."
+    ],
+    "videoUrl": "http://example.com/video27",
+    "imageUrl": "http://example.com/image27",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Stationary Cycling", "Outdoor Cycling"]
+  },
+  {
+    "id": 28,
+    "name": "Jump Rope",
+    "category": "cardio",
+    "muscleGroups": ["legs", "calves"],
+    "difficulty": "intermediate",
+    "equipment": ["jump rope"],
+    "instructions": [
+      "Hold the jump rope handles in each hand.",
+      "Jump over the rope as it passes under your feet.",
+      "Keep a consistent rhythm for the duration."
+    ],
+    "form_tips": [
+      "Jump on the balls of your feet.",
+      "Keep your elbows close to your body."
+    ],
+    "benefits": [
+      "Improves coordination.",
+      "Burns calories quickly."
+    ],
+    "videoUrl": "http://example.com/video28",
+    "imageUrl": "http://example.com/image28",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Double Unders", "Alternate Foot Jump"]
+  },
+  {
+    "id": 29,
+    "name": "Rowing",
+    "category": "cardio",
+    "muscleGroups": ["back", "arms", "legs"],
+    "difficulty": "advanced",
+    "equipment": ["rowing machine"],
+    "instructions": [
+      "Sit on the rowing machine and strap your feet in.",
+      "Pull the handle towards your torso while extending your legs.",
+      "Reverse the motion to return to the starting position."
+    ],
+    "form_tips": [
+      "Use your legs to drive the movement.",
+      "Keep your back straight during the pull."
+    ],
+    "benefits": [
+      "Provides a full-body workout.",
+      "Enhances cardiovascular endurance."
+    ],
+    "videoUrl": "http://example.com/video29",
+    "imageUrl": "http://example.com/image29",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["High-Intensity Rowing"]
+  },
+  {
+    "id": 30,
+    "name": "Elliptical",
+    "category": "cardio",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "beginner",
+    "equipment": ["elliptical machine"],
+    "instructions": [
+      "Step onto the elliptical machine.",
+      "Set a moderate resistance and maintain a steady pace.",
+      "Cool down gradually after your session."
+    ],
+    "form_tips": [
+      "Keep your posture upright.",
+      "Use the handles to engage your upper body lightly."
+    ],
+    "benefits": [
+      "Low-impact cardiovascular exercise.",
+      "Improves leg endurance."
+    ],
+    "videoUrl": "http://example.com/video30",
+    "imageUrl": "http://example.com/image30",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Reverse Stride", "Interval Training"]
+  },
+  {
+    "id": 31,
+    "name": "Stair Climber",
+    "category": "cardio",
+    "muscleGroups": ["legs"],
+    "difficulty": "intermediate",
+    "equipment": ["stair climber machine"],
+    "instructions": [
+      "Step onto the machine and start at a low intensity.",
+      "Increase the resistance to mimic stair climbing.",
+      "Maintain a consistent pace throughout your workout."
+    ],
+    "form_tips": [
+      "Keep your core engaged.",
+      "Avoid leaning too far forward."
+    ],
+    "benefits": [
+      "Strengthens leg muscles.",
+      "Boosts cardiovascular endurance."
+    ],
+    "videoUrl": "http://example.com/video31",
+    "imageUrl": "http://example.com/image31",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Interval Stair Climbing"]
+  },
+  {
+    "id": 32,
+    "name": "Swimming",
+    "category": "cardio",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["swimming pool"],
+    "instructions": [
+      "Warm up with an easy lap.",
+      "Swim continuously using your preferred stroke.",
+      "Cool down with a slow-paced lap."
+    ],
+    "form_tips": [
+      "Maintain proper breathing technique.",
+      "Focus on smooth strokes."
+    ],
+    "benefits": [
+      "Low-impact full-body workout.",
+      "Improves lung capacity."
+    ],
+    "videoUrl": "http://example.com/video32",
+    "imageUrl": "http://example.com/image32",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Freestyle", "Breaststroke"]
+  },
+  {
+    "id": 33,
+    "name": "High Knees",
+    "category": "cardio",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Stand tall and run in place, driving your knees high.",
+      "Maintain a rapid pace for the set duration."
+    ],
+    "form_tips": [
+      "Keep your core engaged.",
+      "Land softly on your feet."
+    ],
+    "benefits": [
+      "Boosts cardiovascular endurance.",
+      "Improves leg strength."
+    ],
+    "videoUrl": "http://example.com/video33",
+    "imageUrl": "http://example.com/image33",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Alternating High Knees"]
+  },
+  {
+    "id": 34,
+    "name": "Butt Kicks",
+    "category": "cardio",
+    "muscleGroups": ["legs"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Jog in place while kicking your heels toward your glutes.",
+      "Keep a steady rhythm for the duration of the exercise."
+    ],
+    "form_tips": [
+      "Keep your torso upright.",
+      "Focus on a quick turnover of your feet."
+    ],
+    "benefits": [
+      "Improves lower body flexibility.",
+      "Enhances leg speed."
+    ],
+    "videoUrl": "http://example.com/video34",
+    "imageUrl": "http://example.com/image34",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Fast Butt Kicks"]
+  },
+  {
+    "id": 35,
+    "name": "Jumping Jacks",
+    "category": "cardio",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Stand upright with your legs together and arms at your sides.",
+      "Jump while spreading your legs and raising your arms overhead.",
+      "Return to the starting position and repeat."
+    ],
+    "form_tips": [
+      "Keep movements controlled.",
+      "Land softly to protect your joints."
+    ],
+    "benefits": [
+      "Boosts cardiovascular health.",
+      "Improves coordination."
+    ],
+    "videoUrl": "http://example.com/video35",
+    "imageUrl": "http://example.com/image35",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Modified Jumping Jacks"]
+  },
+  {
+    "id": 36,
+    "name": "Skaters",
+    "category": "cardio",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Leap sideways from one foot to the other mimicking a skating motion.",
+      "Land softly and immediately jump to the opposite side."
+    ],
+    "form_tips": [
+      "Keep your core engaged.",
+      "Focus on balance during each leap."
+    ],
+    "benefits": [
+      "Improves lateral movement.",
+      "Enhances coordination."
+    ],
+    "videoUrl": "http://example.com/video36",
+    "imageUrl": "http://example.com/image36",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Side-to-Side Skaters"]
+  },
+  {
+    "id": 37,
+    "name": "Mountain Climbers",
+    "category": "cardio",
+    "muscleGroups": ["core", "legs"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Assume a plank position.",
+      "Quickly drive one knee toward your chest, then switch legs in a running motion."
+    ],
+    "form_tips": [
+      "Keep your hips down.",
+      "Maintain a fast, controlled pace."
+    ],
+    "benefits": [
+      "Boosts cardiovascular endurance.",
+      "Strengthens the core."
+    ],
+    "videoUrl": "http://example.com/video37",
+    "imageUrl": "http://example.com/image37",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Slow Mountain Climbers for Beginners"]
+  },
+  {
+    "id": 38,
+    "name": "Agility Ladder",
+    "category": "cardio",
+    "muscleGroups": ["legs", "coordination"],
+    "difficulty": "advanced",
+    "equipment": ["agility ladder"],
+    "instructions": [
+      "Lay the ladder flat on the ground.",
+      "Quickly move your feet in and out of each rung.",
+      "Repeat the pattern along the ladder's length."
+    ],
+    "form_tips": [
+      "Keep your movements light and quick.",
+      "Stay on the balls of your feet."
+    ],
+    "benefits": [
+      "Improves foot speed and agility.",
+      "Enhances coordination."
+    ],
+    "videoUrl": "http://example.com/video38",
+    "imageUrl": "http://example.com/image38",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["In-Out Ladder Drills"]
+  },
+  {
+    "id": 39,
+    "name": "Boxing",
+    "category": "cardio",
+    "muscleGroups": ["arms", "shoulders", "core"],
+    "difficulty": "beginner",
+    "equipment": ["boxing gloves"],
+    "instructions": [
+      "Assume a boxing stance.",
+      "Throw a series of punches at a steady pace.",
+      "Keep moving your feet between rounds."
+    ],
+    "form_tips": [
+      "Keep your guard up.",
+      "Focus on technique over speed."
+    ],
+    "benefits": [
+      "Improves hand-eye coordination.",
+      "Enhances upper body endurance."
+    ],
+    "videoUrl": "http://example.com/video39",
+    "imageUrl": "http://example.com/image39",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Shadow Boxing", "Heavy Bag Work"]
+  },
+  {
+    "id": 40,
+    "name": "Zumba",
+    "category": "cardio",
+    "muscleGroups": ["full body"],
+    "difficulty": "intermediate",
+    "equipment": ["dance space"],
+    "instructions": [
+      "Follow a choreographed dance routine.",
+      "Keep moving continuously for the duration of the workout."
+    ],
+    "form_tips": [
+      "Stay light on your feet.",
+      "Let the music guide your movements."
+    ],
+    "benefits": [
+      "Boosts cardiovascular health.",
+      "Improves coordination and rhythm."
+    ],
+    "videoUrl": "http://example.com/video40",
+    "imageUrl": "http://example.com/image40",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Low-Impact Zumba"]
+  },
+  {
+    "id": 41,
+    "name": "Spinning",
+    "category": "cardio",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "advanced",
+    "equipment": ["stationary bike"],
+    "instructions": [
+      "Set your resistance on the stationary bike.",
+      "Maintain a high cadence for a set period.",
+      "Alternate between seated and standing positions."
+    ],
+    "form_tips": [
+      "Keep your back straight.",
+      "Adjust the seat for proper leg extension."
+    ],
+    "benefits": [
+      "Burns a high number of calories.",
+      "Enhances leg strength."
+    ],
+    "videoUrl": "http://example.com/video41",
+    "imageUrl": "http://example.com/image41",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Interval Spinning", "Endurance Ride"]
+  },
+  {
+    "id": 42,
+    "name": "Dance Workout",
+    "category": "cardio",
+    "muscleGroups": ["full body"],
+    "difficulty": "beginner",
+    "equipment": ["open space"],
+    "instructions": [
+      "Follow a dance routine with continuous movement.",
+      "Focus on rhythm and fluidity throughout."
+    ],
+    "form_tips": [
+      "Keep your movements controlled.",
+      "Focus on breathing steadily."
+    ],
+    "benefits": [
+      "Improves cardiovascular endurance.",
+      "Enhances mood and coordination."
+    ],
+    "videoUrl": "http://example.com/video42",
+    "imageUrl": "http://example.com/image42",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Low-Impact Dance", "Freestyle Dance"]
+  },
+  {
+    "id": 43,
+    "name": "Circuit Training",
+    "category": "cardio",
+    "muscleGroups": ["full body"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform a series of exercises consecutively with minimal rest.",
+      "Complete the circuit and then rest before repeating."
+    ],
+    "form_tips": [
+      "Focus on transitioning quickly between exercises.",
+      "Maintain proper form throughout each exercise."
+    ],
+    "benefits": [
+      "Boosts overall endurance.",
+      "Burns a high number of calories."
+    ],
+    "videoUrl": "http://example.com/video43",
+    "imageUrl": "http://example.com/image43",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Modified Circuit", "Advanced Circuit"]
+  },
+  {
+    "id": 44,
+    "name": "Treadmill Sprints",
+    "category": "cardio",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "advanced",
+    "equipment": ["treadmill"],
+    "instructions": [
+      "Set the treadmill at a high speed.",
+      "Sprint for a short interval, then recover with a walk or jog.",
+      "Repeat for the duration of the workout."
+    ],
+    "form_tips": [
+      "Keep your posture upright.",
+      "Land softly to reduce impact."
+    ],
+    "benefits": [
+      "Improves sprinting speed.",
+      "Boosts cardiovascular fitness."
+    ],
+    "videoUrl": "http://example.com/video44",
+    "imageUrl": "http://example.com/image44",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Incline Sprints", "Interval Sprints"]
+  },
+  {
+    "id": 45,
+    "name": "Outdoor Jog",
+    "category": "cardio",
+    "muscleGroups": ["legs"],
+    "difficulty": "beginner",
+    "equipment": ["running shoes"],
+    "instructions": [
+      "Jog at a comfortable pace outdoors.",
+      "Maintain a steady pace for the set duration.",
+      "Cool down with a light walk."
+    ],
+    "form_tips": [
+      "Keep a relaxed posture.",
+      "Focus on consistent breathing."
+    ],
+    "benefits": [
+      "Enhances leg endurance.",
+      "Improves overall stamina."
+    ],
+    "videoUrl": "http://example.com/video45",
+    "imageUrl": "http://example.com/image45",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Trail Jog", "Interval Jogging"]
+  },
+  {
+    "id": 46,
+    "name": "Interval Running",
+    "category": "cardio",
+    "muscleGroups": ["legs", "cardio"],
+    "difficulty": "intermediate",
+    "equipment": ["running shoes"],
+    "instructions": [
+      "Alternate between high-speed sprints and slow jogging.",
+      "Repeat the cycle for the set time."
+    ],
+    "form_tips": [
+      "Focus on quick recovery between sprints.",
+      "Keep your stride consistent."
+    ],
+    "benefits": [
+      "Improves cardiovascular capacity.",
+      "Burns calories rapidly."
+    ],
+    "videoUrl": "http://example.com/video46",
+    "imageUrl": "http://example.com/image46",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Fartlek Training"]
+  },
+  {
+    "id": 47,
+    "name": "Step Aerobics",
+    "category": "cardio",
+    "muscleGroups": ["legs"],
+    "difficulty": "advanced",
+    "equipment": ["step platform"],
+    "instructions": [
+      "Step up onto the platform and then step down.",
+      "Alternate legs and maintain a brisk pace."
+    ],
+    "form_tips": [
+      "Keep your knees aligned.",
+      "Use the platform edge for stability."
+    ],
+    "benefits": [
+      "Improves leg strength and coordination.",
+      "Boosts cardiovascular endurance."
+    ],
+    "videoUrl": "http://example.com/video47",
+    "imageUrl": "http://example.com/image47",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Low-Step Aerobics"]
+  },
+  {
+    "id": 48,
+    "name": "Cardio Kickboxing",
+    "category": "cardio",
+    "muscleGroups": ["arms", "legs", "core"],
+    "difficulty": "beginner",
+    "equipment": ["boxing gloves"],
+    "instructions": [
+      "Perform a series of kicks and punches in rapid succession.",
+      "Maintain high intensity throughout the session."
+    ],
+    "form_tips": [
+      "Focus on proper punching technique.",
+      "Keep your guard up at all times."
+    ],
+    "benefits": [
+      "Improves coordination.",
+      "Enhances overall endurance."
+    ],
+    "videoUrl": "http://example.com/video48",
+    "imageUrl": "http://example.com/image48",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Shadow Kickboxing"]
+  },
+  {
+    "id": 49,
+    "name": "Shadow Boxing",
+    "category": "cardio",
+    "muscleGroups": ["arms", "shoulders"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Assume a boxing stance and throw punches in the air.",
+      "Focus on speed and technique."
+    ],
+    "form_tips": [
+      "Keep your movements controlled.",
+      "Maintain proper balance."
+    ],
+    "benefits": [
+      "Improves arm endurance.",
+      "Enhances coordination."
+    ],
+    "videoUrl": "http://example.com/video49",
+    "imageUrl": "http://example.com/image49",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["With Light Weights"]
+  },
+  {
+    "id": 50,
+    "name": "Sprint Drills",
+    "category": "cardio",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "advanced",
+    "equipment": ["running shoes"],
+    "instructions": [
+      "Perform short, fast sprints with full effort.",
+      "Recover with light jogging between sprints."
+    ],
+    "form_tips": [
+      "Focus on explosive starts.",
+      "Maintain a proper running posture."
+    ],
+    "benefits": [
+      "Boosts speed and power.",
+      "Improves cardiovascular strength."
+    ],
+    "videoUrl": "http://example.com/video50",
+    "imageUrl": "http://example.com/image50",
+    "estimatedCaloriesBurn": 300,
+    "variations": ["Hill Sprints"]
+  },
+  {
+    "id": 51,
+    "name": "Yoga Flow",
+    "category": "flexibility",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["yoga mat"],
+    "instructions": [
+      "Flow through a series of yoga poses smoothly.",
+      "Focus on deep, controlled breathing."
+    ],
+    "form_tips": [
+      "Maintain proper alignment in each pose.",
+      "Move mindfully between transitions."
+    ],
+    "benefits": [
+      "Enhances flexibility.",
+      "Improves balance and mental focus."
+    ],
+    "videoUrl": "http://example.com/video51",
+    "imageUrl": "http://example.com/image51",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Vinyasa Flow", "Slow Flow"]
+  },
+  {
+    "id": 52,
+    "name": "Pilates",
+    "category": "flexibility",
+    "muscleGroups": ["core", "flexibility"],
+    "difficulty": "beginner",
+    "equipment": ["mat"],
+    "instructions": [
+      "Perform a series of controlled Pilates movements.",
+      "Focus on precision and breath control."
+    ],
+    "form_tips": [
+      "Engage your core at all times.",
+      "Maintain smooth, deliberate motions."
+    ],
+    "benefits": [
+      "Improves core strength.",
+      "Enhances overall flexibility."
+    ],
+    "videoUrl": "http://example.com/video52",
+    "imageUrl": "http://example.com/image52",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Mat Pilates", "Reformer Pilates"]
+  },
+  {
+    "id": 53,
+    "name": "Stretch Routine",
+    "category": "flexibility",
+    "muscleGroups": ["full body"],
+    "difficulty": "intermediate",
+    "equipment": ["yoga mat"],
+    "instructions": [
+      "Perform a series of static stretches covering all major muscle groups.",
+      "Hold each stretch for 30 seconds."
+    ],
+    "form_tips": [
+      "Do not bounce during stretches.",
+      "Relax into each stretch gradually."
+    ],
+    "benefits": [
+      "Increases range of motion.",
+      "Reduces muscle tension."
+    ],
+    "videoUrl": "http://example.com/video53",
+    "imageUrl": "http://example.com/image53",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Dynamic Stretching", "Static Stretching"]
+  },
+  {
+    "id": 54,
+    "name": "Hamstring Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["hamstrings"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Sit on the floor with one leg extended.",
+      "Reach toward your toes, keeping your back straight.",
+      "Hold the stretch and switch legs."
+    ],
+    "form_tips": [
+      "Do not force the stretch.",
+      "Keep the extended leg straight."
+    ],
+    "benefits": [
+      "Increases hamstring flexibility.",
+      "Reduces risk of lower back pain."
+    ],
+    "videoUrl": "http://example.com/video54",
+    "imageUrl": "http://example.com/image54",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Standing Hamstring Stretch"]
+  },
+  {
+    "id": 55,
+    "name": "Quad Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["quadriceps"],
+    "difficulty": "beginner",
+    "equipment": ["none"],
+    "instructions": [
+      "Stand on one leg and pull the opposite foot toward your glutes.",
+      "Hold the stretch while maintaining balance.",
+      "Switch legs and repeat."
+    ],
+    "form_tips": [
+      "Keep your knees close together.",
+      "Use a wall for balance if needed."
+    ],
+    "benefits": [
+      "Improves quadriceps flexibility.",
+      "Helps relieve tension in the front of the thigh."
+    ],
+    "videoUrl": "http://example.com/video55",
+    "imageUrl": "http://example.com/image55",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Lying Quad Stretch"]
+  },
+  {
+    "id": 56,
+    "name": "Chest Opener",
+    "category": "flexibility",
+    "muscleGroups": ["chest", "shoulders"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Stand tall and clasp your hands behind your back.",
+      "Lift your hands upward to open up your chest.",
+      "Hold the stretch and then release."
+    ],
+    "form_tips": [
+      "Keep your shoulders down and relaxed.",
+      "Do not overstretch; move within your limits."
+    ],
+    "benefits": [
+      "Improves posture.",
+      "Opens up the chest and shoulder area."
+    ],
+    "videoUrl": "http://example.com/video56",
+    "imageUrl": "http://example.com/image56",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Doorway Chest Stretch"]
+  },
+  {
+    "id": 57,
+    "name": "Seated Forward Bend",
+    "category": "flexibility",
+    "muscleGroups": ["hamstrings", "back"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Sit on the floor with your legs extended.",
+      "Reach forward toward your toes, keeping your back straight.",
+      "Hold the stretch and breathe deeply."
+    ],
+    "form_tips": [
+      "Avoid rounding your back.",
+      "Focus on lengthening your spine."
+    ],
+    "benefits": [
+      "Enhances hamstring and lower back flexibility.",
+      "Calms the mind."
+    ],
+    "videoUrl": "http://example.com/video57",
+    "imageUrl": "http://example.com/image57",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Standing Forward Bend"]
+  },
+  {
+    "id": 58,
+    "name": "Child's Pose",
+    "category": "flexibility",
+    "muscleGroups": ["back"],
+    "difficulty": "beginner",
+    "equipment": ["yoga mat"],
+    "instructions": [
+      "Kneel on the floor and sit back on your heels.",
+      "Bend forward and rest your torso between your thighs.",
+      "Stretch your arms forward and relax."
+    ],
+    "form_tips": [
+      "Keep your hips low.",
+      "Breathe deeply to relax."
+    ],
+    "benefits": [
+      "Relieves back tension.",
+      "Promotes relaxation."
+    ],
+    "videoUrl": "http://example.com/video58",
+    "imageUrl": "http://example.com/image58",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Wide-Knee Child's Pose"]
+  },
+  {
+    "id": 59,
+    "name": "Cat-Cow Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["back", "core"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Start on your hands and knees.",
+      "Alternate between arching your back (cat) and dipping it (cow).",
+      "Repeat slowly with your breath."
+    ],
+    "form_tips": [
+      "Move fluidly between the two positions.",
+      "Focus on your breathing."
+    ],
+    "benefits": [
+      "Increases spinal mobility.",
+      "Relieves tension in the back."
+    ],
+    "videoUrl": "http://example.com/video59",
+    "imageUrl": "http://example.com/image59",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Modified Cat-Cow"]
+  },
+  {
+    "id": 60,
+    "name": "Cobra Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["abdominals", "back"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Lie face down on the floor.",
+      "Place your hands under your shoulders and push up, lifting your chest.",
+      "Hold the stretch for several seconds before lowering."
+    ],
+    "form_tips": [
+      "Keep your elbows slightly bent.",
+      "Do not strain your lower back."
+    ],
+    "benefits": [
+      "Stretches the chest and abdominals.",
+      "Improves spinal flexibility."
+    ],
+    "videoUrl": "http://example.com/video60",
+    "imageUrl": "http://example.com/image60",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Sphinx Pose"]
+  },
+  {
+    "id": 61,
+    "name": "Butterfly Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["inner thighs"],
+    "difficulty": "beginner",
+    "equipment": ["none"],
+    "instructions": [
+      "Sit on the floor with the soles of your feet together.",
+      "Gently press your knees toward the floor.",
+      "Hold the stretch for a set duration."
+    ],
+    "form_tips": [
+      "Sit up straight while performing the stretch.",
+      "Avoid forcing your knees down."
+    ],
+    "benefits": [
+      "Increases inner thigh flexibility.",
+      "Improves hip mobility."
+    ],
+    "videoUrl": "http://example.com/video61",
+    "imageUrl": "http://example.com/image61",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Seated Butterfly Stretch"]
+  },
+  {
+    "id": 62,
+    "name": "Side Bend",
+    "category": "flexibility",
+    "muscleGroups": ["obliques"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Stand with your feet shoulder-width apart.",
+      "Reach one arm overhead and lean to the opposite side.",
+      "Hold the position before switching sides."
+    ],
+    "form_tips": [
+      "Keep your hips square.",
+      "Do not force the bend; move slowly."
+    ],
+    "benefits": [
+      "Stretches the side muscles.",
+      "Improves lateral flexibility."
+    ],
+    "videoUrl": "http://example.com/video62",
+    "imageUrl": "http://example.com/image62",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Seated Side Bend"]
+  },
+  {
+    "id": 63,
+    "name": "Shoulder Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["shoulders"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Bring one arm across your body.",
+      "Use the opposite arm to pull it closer.",
+      "Hold the stretch and then switch arms."
+    ],
+    "form_tips": [
+      "Keep your shoulders relaxed.",
+      "Avoid pulling too hard."
+    ],
+    "benefits": [
+      "Increases shoulder mobility.",
+      "Reduces tension in the upper back."
+    ],
+    "videoUrl": "http://example.com/video63",
+    "imageUrl": "http://example.com/image63",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Cross-Body Shoulder Stretch"]
+  },
+  {
+    "id": 64,
+    "name": "Triceps Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["triceps"],
+    "difficulty": "beginner",
+    "equipment": ["none"],
+    "instructions": [
+      "Raise one arm overhead, then bend the elbow to reach down your back.",
+      "Use the opposite hand to gently press the elbow.",
+      "Hold the stretch and switch arms."
+    ],
+    "form_tips": [
+      "Keep your head upright.",
+      "Perform the stretch slowly."
+    ],
+    "benefits": [
+      "Improves triceps flexibility.",
+      "Helps relieve shoulder tension."
+    ],
+    "videoUrl": "http://example.com/video64",
+    "imageUrl": "http://example.com/image64",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Overhead Triceps Stretch"]
+  },
+  {
+    "id": 65,
+    "name": "Neck Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["neck"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Sit or stand with a straight back.",
+      "Gently tilt your head to one side until you feel a stretch.",
+      "Hold for a few seconds and repeat on the other side."
+    ],
+    "form_tips": [
+      "Do not force your head beyond your comfort zone.",
+      "Keep movements slow and controlled."
+    ],
+    "benefits": [
+      "Relieves neck tension.",
+      "Improves range of motion in the neck."
+    ],
+    "videoUrl": "http://example.com/video65",
+    "imageUrl": "http://example.com/image65",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Seated Neck Stretch"]
+  },
+  {
+    "id": 66,
+    "name": "Calf Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["calves"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Stand facing a wall with one foot forward and one foot back.",
+      "Lean into the wall to stretch the calf of the back leg.",
+      "Hold the position and switch legs."
+    ],
+    "form_tips": [
+      "Keep your back leg straight.",
+      "Press your heel into the ground."
+    ],
+    "benefits": [
+      "Improves calf flexibility.",
+      "Reduces muscle tightness in the lower leg."
+    ],
+    "videoUrl": "http://example.com/video66",
+    "imageUrl": "http://example.com/image66",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Seated Calf Stretch"]
+  },
+  {
+    "id": 67,
+    "name": "Hip Flexor Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["hip flexors"],
+    "difficulty": "beginner",
+    "equipment": ["none"],
+    "instructions": [
+      "Kneel on one knee with the other foot flat on the ground.",
+      "Push your hips forward gently until a stretch is felt in the hip flexor.",
+      "Hold the position and then switch legs."
+    ],
+    "form_tips": [
+      "Keep your torso upright.",
+      "Avoid arching your back."
+    ],
+    "benefits": [
+      "Increases hip mobility.",
+      "Reduces lower back tension."
+    ],
+    "videoUrl": "http://example.com/video67",
+    "imageUrl": "http://example.com/image67",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Lunge Hip Flexor Stretch"]
+  },
+  {
+    "id": 68,
+    "name": "Lower Back Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["lower back"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Lie on your back and pull your knees to your chest.",
+      "Hold the stretch for several seconds before releasing."
+    ],
+    "form_tips": [
+      "Keep your lower back pressed into the floor.",
+      "Breathe deeply during the stretch."
+    ],
+    "benefits": [
+      "Relieves lower back pain.",
+      "Increases flexibility in the lumbar region."
+    ],
+    "videoUrl": "http://example.com/video68",
+    "imageUrl": "http://example.com/image68",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Knee-to-Chest Stretch"]
+  },
+  {
+    "id": 69,
+    "name": "Spinal Twist",
+    "category": "flexibility",
+    "muscleGroups": ["back", "core"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Sit on the floor with your legs extended.",
+      "Cross one leg over the other and twist your torso toward the bent knee.",
+      "Hold the twist and repeat on the other side."
+    ],
+    "form_tips": [
+      "Keep your back straight.",
+      "Avoid forcing the twist beyond comfort."
+    ],
+    "benefits": [
+      "Improves spinal mobility.",
+      "Enhances core flexibility."
+    ],
+    "videoUrl": "http://example.com/video69",
+    "imageUrl": "http://example.com/image69",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Supine Spinal Twist"]
+  },
+  {
+    "id": 70,
+    "name": "Dynamic Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["full body"],
+    "difficulty": "beginner",
+    "equipment": ["none"],
+    "instructions": [
+      "Perform controlled, movement-based stretches.",
+      "Focus on moving through a full range of motion."
+    ],
+    "form_tips": [
+      "Keep movements smooth and controlled.",
+      "Avoid jerky motions."
+    ],
+    "benefits": [
+      "Prepares muscles for activity.",
+      "Improves overall mobility."
+    ],
+    "videoUrl": "http://example.com/video70",
+    "imageUrl": "http://example.com/image70",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Dynamic Warm-up Routine"]
+  },
+  {
+    "id": 71,
+    "name": "Static Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["full body"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Hold a stretch position for 30 seconds without movement.",
+      "Repeat for all major muscle groups."
+    ],
+    "form_tips": [
+      "Avoid bouncing during the stretch.",
+      "Focus on deep breathing."
+    ],
+    "benefits": [
+      "Enhances muscle relaxation.",
+      "Improves flexibility over time."
+    ],
+    "videoUrl": "http://example.com/video71",
+    "imageUrl": "http://example.com/image71",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Passive Stretching"]
+  },
+  {
+    "id": 72,
+    "name": "Pigeon Pose",
+    "category": "flexibility",
+    "muscleGroups": ["glutes", "hips"],
+    "difficulty": "advanced",
+    "equipment": ["yoga mat"],
+    "instructions": [
+      "Begin in a tabletop position and bring one knee forward.",
+      "Extend the opposite leg straight back.",
+      "Lower your hips toward the floor and hold the position."
+    ],
+    "form_tips": [
+      "Keep your hips square.",
+      "Breathe deeply to ease into the stretch."
+    ],
+    "benefits": [
+      "Increases hip flexibility.",
+      "Relieves lower back tension."
+    ],
+    "videoUrl": "http://example.com/video72",
+    "imageUrl": "http://example.com/image72",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Modified Pigeon Pose"]
+  },
+  {
+    "id": 73,
+    "name": "Wall Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["calves", "hamstrings"],
+    "difficulty": "beginner",
+    "equipment": ["none"],
+    "instructions": [
+      "Stand facing a wall and place your hands on it.",
+      "Step one foot back and press your heel into the ground.",
+      "Hold the stretch and switch legs."
+    ],
+    "form_tips": [
+      "Keep your back leg straight.",
+      "Press firmly into the wall for support."
+    ],
+    "benefits": [
+      "Improves calf and hamstring flexibility.",
+      "Reduces lower leg tension."
+    ],
+    "videoUrl": "http://example.com/video73",
+    "imageUrl": "http://example.com/image73",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Doorway Calf Stretch"]
+  },
+  {
+    "id": 74,
+    "name": "Standing Forward Bend",
+    "category": "flexibility",
+    "muscleGroups": ["hamstrings", "back"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "instructions": [
+      "Stand with feet hip-width apart.",
+      "Bend forward at the hips and let your upper body hang.",
+      "Hold the stretch while relaxing your neck and shoulders."
+    ],
+    "form_tips": [
+      "Keep your knees slightly bent if needed.",
+      "Focus on releasing tension in the back."
+    ],
+    "benefits": [
+      "Improves hamstring flexibility.",
+      "Relieves stress in the spine."
+    ],
+    "videoUrl": "http://example.com/video74",
+    "imageUrl": "http://example.com/image74",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Seated Forward Bend"]
+  },
+  {
+    "id": 75,
+    "name": "Lying Hamstring Stretch",
+    "category": "flexibility",
+    "muscleGroups": ["hamstrings"],
+    "difficulty": "advanced",
+    "equipment": ["none"],
+    "instructions": [
+      "Lie on your back and extend one leg upward.",
+      "Hold the leg with both hands and pull gently toward you.",
+      "Switch legs after holding the stretch."
+    ],
+    "form_tips": [
+      "Keep the leg straight.",
+      "Do not force the stretch; ease into it gradually."
+    ],
+    "benefits": [
+      "Enhances hamstring flexibility.",
+      "Reduces tightness in the legs."
+    ],
+    "videoUrl": "http://example.com/video75",
+    "imageUrl": "http://example.com/image75",
+    "estimatedCaloriesBurn": 100,
+    "variations": ["Assisted Hamstring Stretch"]
+  },
+  {
+    "id": 76,
+    "name": "Burpees",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "From a standing position, drop into a squat and place your hands on the floor.",
+      "Kick your feet back into a plank position, perform a push-up, then return to squat.",
+      "Jump explosively into the air."
+    ],
+    "form_tips": [
+      "Keep movements controlled.",
+      "Land softly when you jump."
+    ],
+    "benefits": [
+      "Burns high calories quickly.",
+      "Improves overall body strength and endurance."
+    ],
+    "videoUrl": "http://example.com/video76",
+    "imageUrl": "http://example.com/image76",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Modified Burpees"]
+  },
+  {
+    "id": 77,
+    "name": "Mountain Climbers",
+    "category": "hiit",
+    "muscleGroups": ["core", "legs"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Start in a plank position.",
+      "Rapidly drive one knee toward your chest and switch legs quickly.",
+      "Maintain a brisk pace."
+    ],
+    "form_tips": [
+      "Keep your hips low.",
+      "Focus on quick, controlled movements."
+    ],
+    "benefits": [
+      "Boosts cardiovascular endurance.",
+      "Strengthens core muscles."
+    ],
+    "videoUrl": "http://example.com/video77",
+    "imageUrl": "http://example.com/image77",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Slow Mountain Climbers"]
+  },
+  {
+    "id": 78,
+    "name": "Jump Squats",
+    "category": "hiit",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform a squat and then jump explosively upward.",
+      "Land softly and immediately move into the next squat."
+    ],
+    "form_tips": [
+      "Keep your chest up during the squat.",
+      "Use your arms to help generate momentum."
+    ],
+    "benefits": [
+      "Enhances lower body power.",
+      "Increases calorie burn."
+    ],
+    "videoUrl": "http://example.com/video78",
+    "imageUrl": "http://example.com/image78",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Pulse Squats", "Weighted Jump Squats"]
+  },
+  {
+    "id": 79,
+    "name": "Skater Jumps",
+    "category": "hiit",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Leap laterally from one foot to the other, mimicking a skating motion.",
+      "Land softly and immediately jump to the opposite side."
+    ],
+    "form_tips": [
+      "Keep your knees slightly bent.",
+      "Focus on balance and coordination."
+    ],
+    "benefits": [
+      "Improves lateral agility.",
+      "Strengthens leg muscles."
+    ],
+    "videoUrl": "http://example.com/video79",
+    "imageUrl": "http://example.com/image79",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Side Skater Jumps"]
+  },
+  {
+    "id": 80,
+    "name": "High Knees HIIT",
+    "category": "hiit",
+    "muscleGroups": ["legs", "core"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Run in place while driving your knees as high as possible.",
+      "Maintain a rapid pace for the interval."
+    ],
+    "form_tips": [
+      "Lift your knees to hip level.",
+      "Keep your posture upright."
+    ],
+    "benefits": [
+      "Boosts cardiovascular performance.",
+      "Strengthens lower body muscles."
+    ],
+    "videoUrl": "http://example.com/video80",
+    "imageUrl": "http://example.com/image80",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Alternating High Knees"]
+  },
+  {
+    "id": 81,
+    "name": "Speed Skaters",
+    "category": "hiit",
+    "muscleGroups": ["legs"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Leap sideways rapidly, landing on one leg then the other.",
+      "Focus on covering as much distance as possible with each jump."
+    ],
+    "form_tips": [
+      "Keep your movements explosive.",
+      "Maintain balance by engaging your core."
+    ],
+    "benefits": [
+      "Enhances lateral power.",
+      "Improves overall agility."
+    ],
+    "videoUrl": "http://example.com/video81",
+    "imageUrl": "http://example.com/image81",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Lateral Plyometrics"]
+  },
+  {
+    "id": 82,
+    "name": "Plank Jacks",
+    "category": "hiit",
+    "muscleGroups": ["core", "legs"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Start in a plank position.",
+      "Jump your feet apart and then back together in a jumping jack motion."
+    ],
+    "form_tips": [
+      "Keep your hips stable.",
+      "Avoid sagging or piking."
+    ],
+    "benefits": [
+      "Boosts core stability.",
+      "Increases cardiovascular endurance."
+    ],
+    "videoUrl": "http://example.com/video82",
+    "imageUrl": "http://example.com/image82",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Modified Plank Jacks"]
+  },
+  {
+    "id": 83,
+    "name": "Tuck Jumps",
+    "category": "hiit",
+    "muscleGroups": ["legs"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "From a standing position, jump explosively and tuck your knees toward your chest.",
+      "Land softly and reset for the next jump."
+    ],
+    "form_tips": [
+      "Use your arms to generate lift.",
+      "Land with bent knees to absorb impact."
+    ],
+    "benefits": [
+      "Improves explosive leg power.",
+      "Burns a high number of calories."
+    ],
+    "videoUrl": "http://example.com/video83",
+    "imageUrl": "http://example.com/image83",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Box Tuck Jumps"]
+  },
+  {
+    "id": 84,
+    "name": "Power Jacks",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform a jumping jack with an explosive, powerful movement.",
+      "Focus on maximal effort with each jump."
+    ],
+    "form_tips": [
+      "Keep your movements dynamic.",
+      "Land softly to minimize impact."
+    ],
+    "benefits": [
+      "Boosts full-body power.",
+      "Enhances aerobic capacity."
+    ],
+    "videoUrl": "http://example.com/video84",
+    "imageUrl": "http://example.com/image84",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Explosive Jumping Jacks"]
+  },
+  {
+    "id": 85,
+    "name": "Sprint Intervals",
+    "category": "hiit",
+    "muscleGroups": ["legs", "cardio"],
+    "difficulty": "beginner",
+    "equipment": ["running shoes"],
+    "instructions": [
+      "Sprint at maximum effort for a short duration.",
+      "Recover with a slow jog or walk, then repeat."
+    ],
+    "form_tips": [
+      "Focus on explosive starts.",
+      "Keep your posture upright."
+    ],
+    "benefits": [
+      "Increases speed and endurance.",
+      "Burns a significant amount of calories."
+    ],
+    "videoUrl": "http://example.com/video85",
+    "imageUrl": "http://example.com/image85",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Hill Sprint Intervals"]
+  },
+  {
+    "id": 86,
+    "name": "Jump Lunges",
+    "category": "hiit",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Start in a lunge position.",
+      "Explosively jump and switch legs mid-air.",
+      "Land softly and repeat."
+    ],
+    "form_tips": [
+      "Keep your core tight.",
+      "Ensure a soft landing to protect your joints."
+    ],
+    "benefits": [
+      "Boosts lower body power.",
+      "Improves dynamic balance."
+    ],
+    "videoUrl": "http://example.com/video86",
+    "imageUrl": "http://example.com/image86",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Alternating Jump Lunges"]
+  },
+  {
+    "id": 87,
+    "name": "Alternating Lunges HIIT",
+    "category": "hiit",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform lunges alternately at a high intensity.",
+      "Maintain speed while keeping proper form."
+    ],
+    "form_tips": [
+      "Keep your torso upright.",
+      "Step forward with control."
+    ],
+    "benefits": [
+      "Improves leg endurance.",
+      "Burns calories rapidly."
+    ],
+    "videoUrl": "http://example.com/video87",
+    "imageUrl": "http://example.com/image87",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Reverse Lunge HIIT"]
+  },
+  {
+    "id": 88,
+    "name": "Fast Feet",
+    "category": "hiit",
+    "muscleGroups": ["legs"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Stand in place and move your feet as quickly as possible.",
+      "Keep the movement light and fast."
+    ],
+    "form_tips": [
+      "Stay on the balls of your feet.",
+      "Maintain a relaxed upper body."
+    ],
+    "benefits": [
+      "Improves foot speed.",
+      "Boosts cardiovascular stamina."
+    ],
+    "videoUrl": "http://example.com/video88",
+    "imageUrl": "http://example.com/image88",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Agility Drills"]
+  },
+  {
+    "id": 89,
+    "name": "Box Jumps",
+    "category": "hiit",
+    "muscleGroups": ["legs", "power"],
+    "difficulty": "intermediate",
+    "equipment": ["box"],
+    "instructions": [
+      "Stand in front of a sturdy box.",
+      "Jump onto the box with both feet landing softly.",
+      "Step or jump back down and repeat."
+    ],
+    "form_tips": [
+      "Focus on landing softly.",
+      "Use your arms to generate momentum."
+    ],
+    "benefits": [
+      "Increases explosive leg power.",
+      "Improves overall agility."
+    ],
+    "videoUrl": "http://example.com/video89",
+    "imageUrl": "http://example.com/image89",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Lateral Box Jumps"]
+  },
+  {
+    "id": 90,
+    "name": "Battle Ropes",
+    "category": "hiit",
+    "muscleGroups": ["arms", "shoulders", "core"],
+    "difficulty": "advanced",
+    "equipment": ["battle ropes"],
+    "instructions": [
+      "Anchor the ropes securely.",
+      "Perform alternating waves or slams with maximum effort.",
+      "Keep a steady pace during intervals."
+    ],
+    "form_tips": [
+      "Engage your core for stability.",
+      "Keep movements powerful and controlled."
+    ],
+    "benefits": [
+      "Enhances upper body endurance.",
+      "Burns a high number of calories."
+    ],
+    "videoUrl": "http://example.com/video90",
+    "imageUrl": "http://example.com/image90",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Double Wave", "Alternating Slams"]
+  },
+  {
+    "id": 91,
+    "name": "Medicine Ball Slams",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "beginner",
+    "equipment": ["medicine ball"],
+    "instructions": [
+      "Lift the medicine ball overhead.",
+      "Slam it down onto the ground as hard as possible.",
+      "Catch the ball and repeat."
+    ],
+    "form_tips": [
+      "Use your entire body for the movement.",
+      "Bend your knees to absorb the impact."
+    ],
+    "benefits": [
+      "Improves explosive power.",
+      "Engages multiple muscle groups."
+    ],
+    "videoUrl": "http://example.com/video91",
+    "imageUrl": "http://example.com/image91",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Overhead Slams"]
+  },
+  {
+    "id": 92,
+    "name": "Kettlebell Swings",
+    "category": "hiit",
+    "muscleGroups": ["hips", "legs", "core"],
+    "difficulty": "intermediate",
+    "equipment": ["kettlebell"],
+    "instructions": [
+      "Stand with feet shoulder-width apart holding a kettlebell with both hands.",
+      "Swing the kettlebell between your legs and then up to chest level.",
+      "Repeat in a smooth, rhythmic motion."
+    ],
+    "form_tips": [
+      "Drive the movement with your hips.",
+      "Keep your back straight throughout."
+    ],
+    "benefits": [
+      "Boosts power in the lower body.",
+      "Enhances cardiovascular endurance."
+    ],
+    "videoUrl": "http://example.com/video92",
+    "imageUrl": "http://example.com/image92",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Single-Arm Kettlebell Swing"]
+  },
+  {
+    "id": 93,
+    "name": "Sprint Burpees",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Combine a burpee with an explosive sprint.",
+      "Perform a burpee then immediately sprint in place.",
+      "Repeat rapidly for the interval duration."
+    ],
+    "form_tips": [
+      "Maintain intensity while keeping good form.",
+      "Focus on quick transitions."
+    ],
+    "benefits": [
+      "Maximizes calorie burn.",
+      "Improves both strength and speed."
+    ],
+    "videoUrl": "http://example.com/video93",
+    "imageUrl": "http://example.com/image93",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Modified Sprint Burpees"]
+  },
+  {
+    "id": 94,
+    "name": "Jumping Lunges",
+    "category": "hiit",
+    "muscleGroups": ["legs", "glutes"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Start in a lunge position.",
+      "Jump up and switch your legs mid-air.",
+      "Land softly and repeat continuously."
+    ],
+    "form_tips": [
+      "Keep your torso upright.",
+      "Focus on controlled landings."
+    ],
+    "benefits": [
+      "Boosts lower body explosiveness.",
+      "Enhances cardiovascular conditioning."
+    ],
+    "videoUrl": "http://example.com/video94",
+    "imageUrl": "http://example.com/image94",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Alternating Jumping Lunges"]
+  },
+  {
+    "id": 95,
+    "name": "Explosive Push-ups",
+    "category": "hiit",
+    "muscleGroups": ["chest", "arms", "core"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform a push-up with enough force to lift your hands off the ground.",
+      "Land softly and immediately go into the next rep."
+    ],
+    "form_tips": [
+      "Keep your core tight.",
+      "Focus on explosive movement."
+    ],
+    "benefits": [
+      "Builds power in the upper body.",
+      "Improves muscular endurance."
+    ],
+    "videoUrl": "http://example.com/video95",
+    "imageUrl": "http://example.com/image95",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Clap Push-ups"]
+  },
+  {
+    "id": 96,
+    "name": "Quick Step-ups",
+    "category": "hiit",
+    "muscleGroups": ["legs"],
+    "difficulty": "beginner",
+    "equipment": ["bench"],
+    "instructions": [
+      "Quickly step up onto the bench with one foot then the other.",
+      "Step down rapidly and repeat for the set duration."
+    ],
+    "form_tips": [
+      "Keep your movements brisk yet controlled.",
+      "Engage your core for balance."
+    ],
+    "benefits": [
+      "Improves leg speed.",
+      "Enhances coordination."
+    ],
+    "videoUrl": "http://example.com/video96",
+    "imageUrl": "http://example.com/image96",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Weighted Step-ups"]
+  },
+  {
+    "id": 97,
+    "name": "Dynamic HIIT Circuit",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform a series of different exercises in rapid succession.",
+      "Keep rest intervals short between each exercise."
+    ],
+    "form_tips": [
+      "Focus on quick transitions.",
+      "Maintain proper form throughout."
+    ],
+    "benefits": [
+      "Maximizes calorie burn.",
+      "Improves overall fitness quickly."
+    ],
+    "videoUrl": "http://example.com/video97",
+    "imageUrl": "http://example.com/image97",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Modified HIIT Circuit"]
+  },
+  {
+    "id": 98,
+    "name": "Intense HIIT Blast",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "intermediate",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Alternate between high-intensity exercises and short rest periods.",
+      "Keep your intensity at maximum during work intervals."
+    ],
+    "form_tips": [
+      "Focus on explosive power.",
+      "Maintain control during transitions."
+    ],
+    "benefits": [
+      "Improves anaerobic capacity.",
+      "Burns a large number of calories."
+    ],
+    "videoUrl": "http://example.com/video98",
+    "imageUrl": "http://example.com/image98",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Short Interval HIIT"]
+  },
+  {
+    "id": 99,
+    "name": "Cardio HIIT Challenge",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "advanced",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Perform a variety of cardio exercises at high intensity.",
+      "Switch exercises every 30 seconds with minimal rest."
+    ],
+    "form_tips": [
+      "Keep your heart rate elevated.",
+      "Focus on maintaining proper form despite fatigue."
+    ],
+    "benefits": [
+      "Improves cardiovascular and muscular endurance.",
+      "Maximizes calorie burn in a short time."
+    ],
+    "videoUrl": "http://example.com/video99",
+    "imageUrl": "http://example.com/image99",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Modified Cardio HIIT"]
+  },
+  {
+    "id": 100,
+    "name": "Total Body HIIT",
+    "category": "hiit",
+    "muscleGroups": ["full body"],
+    "difficulty": "beginner",
+    "equipment": ["bodyweight"],
+    "instructions": [
+      "Combine a series of exercises that target all major muscle groups.",
+      "Perform each exercise at high intensity with short rest periods."
+    ],
+    "form_tips": [
+      "Ensure proper form to prevent injury.",
+      "Keep transitions quick and efficient."
+    ],
+    "benefits": [
+      "Provides a full-body workout.",
+      "Greatly increases calorie burn."
+    ],
+    "videoUrl": "http://example.com/video100",
+    "imageUrl": "http://example.com/image100",
+    "estimatedCaloriesBurn": 400,
+    "variations": ["Modified Total Body HIIT"]
+  }
+]

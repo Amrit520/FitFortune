@@ -1,0 +1,1954 @@
+[
+  {
+    "id": 1,
+    "name": "Total Body Blast",
+    "level": "beginner",
+    "duration": 4,
+    "goal": "strength",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          },
+          {
+            "exerciseId": 102,
+            "sets": 3,
+            "reps": 10,
+            "duration": 20,
+            "restTime": 60
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 30,
+            "restTime": 0
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 60
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Dumbbells",
+      "Exercise Mat"
+    ],
+    "expectedResults": [
+      "Improved strength",
+      "Better muscle tone"
+    ],
+    "tips": [
+      "Warm up before workouts",
+      "Stay hydrated"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lean & Fit",
+    "level": "beginner",
+    "duration": 6,
+    "goal": "weight-loss",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 45
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Rest",
+        "exercises": []
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      }
+    },
+    "requirements": [
+      "Running shoes",
+      "Water bottle"
+    ],
+    "expectedResults": [
+      "Increased stamina",
+      "Weight loss"
+    ],
+    "tips": [
+      "Maintain a healthy diet",
+      "Stretch after workouts"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Muscle Builder",
+    "level": "intermediate",
+    "duration": 8,
+    "goal": "muscle-gain",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          },
+          {
+            "exerciseId": 102,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 4,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 75
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 4,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 45
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 4,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 75
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 4,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 45
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Weightlifting equipment",
+      "Protein supplements"
+    ],
+    "expectedResults": [
+      "Increased muscle mass",
+      "Enhanced strength"
+    ],
+    "tips": [
+      "Focus on form",
+      "Increase weights gradually"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Endurance Pro",
+    "level": "advanced",
+    "duration": 12,
+    "goal": "endurance",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 50,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 25,
+            "duration": 30,
+            "restTime": 30
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 50,
+            "restTime": 0
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 25,
+            "duration": 30,
+            "restTime": 30
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Treadmill",
+      "Heart rate monitor"
+    ],
+    "expectedResults": [
+      "Enhanced cardiovascular endurance",
+      "Improved stamina"
+    ],
+    "tips": [
+      "Monitor heart rate",
+      "Stay consistent with pace"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Strength Surge",
+    "level": "advanced",
+    "duration": 6,
+    "goal": "strength",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 90
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 4,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 90
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 90
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 104,
+            "sets": 4,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 90
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 4,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 90
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Barbell",
+      "Weight plates"
+    ],
+    "expectedResults": [
+      "Increased strength",
+      "Enhanced power"
+    ],
+    "tips": [
+      "Use proper lifting technique",
+      "Rest adequately between sets"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fat Burn Fusion",
+    "level": "intermediate",
+    "duration": 8,
+    "goal": "weight-loss",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 45
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 45
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Treadmill",
+      "Jump rope"
+    ],
+    "expectedResults": [
+      "Increased calorie burn",
+      "Improved fitness"
+    ],
+    "tips": [
+      "Combine with healthy diet",
+      "Keep a steady pace"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Core Crusher",
+    "level": "beginner",
+    "duration": 4,
+    "goal": "strength",
+    "schedule": {
+      "day1": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Exercise Mat"
+    ],
+    "expectedResults": [
+      "Stronger core",
+      "Better stability"
+    ],
+    "tips": [
+      "Focus on controlled movements",
+      "Breathe properly"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Total Body Transformation",
+    "level": "intermediate",
+    "duration": 10,
+    "goal": "muscle-gain",
+    "schedule": {
+      "day1": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 40,
+            "restTime": 60
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 40,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 25,
+            "restTime": 45
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 40,
+            "restTime": 60
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Gym Membership",
+      "Protein Shakes"
+    ],
+    "expectedResults": [
+      "Overall muscle growth",
+      "Enhanced fitness"
+    ],
+    "tips": [
+      "Consistent workout schedule",
+      "Proper nutrition is key"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cardio King",
+    "level": "beginner",
+    "duration": 4,
+    "goal": "endurance",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Running Shoes",
+      "Outdoor Space"
+    ],
+    "expectedResults": [
+      "Improved cardiovascular health",
+      "Better endurance"
+    ],
+    "tips": [
+      "Pace yourself",
+      "Incorporate interval training"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Heavy Lifter",
+    "level": "advanced",
+    "duration": 12,
+    "goal": "muscle-gain",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 104,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 5,
+            "reps": 10,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      }
+    },
+    "requirements": [
+      "Heavy Weights",
+      "Strength Bench"
+    ],
+    "expectedResults": [
+      "Significant muscle gain",
+      "Increased power"
+    ],
+    "tips": [
+      "Focus on form",
+      "Allow ample recovery time"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Slim & Strong",
+    "level": "intermediate",
+    "duration": 8,
+    "goal": "weight-loss",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 15,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 20,
+            "duration": 25,
+            "restTime": 45
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Gym Access",
+      "Healthy Diet Plan"
+    ],
+    "expectedResults": [
+      "Weight loss",
+      "Improved strength"
+    ],
+    "tips": [
+      "Combine cardio with strength training",
+      "Stay consistent"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Endurance Extreme",
+    "level": "advanced",
+    "duration": 10,
+    "goal": "endurance",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 50,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 50,
+            "restTime": 0
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 25,
+            "duration": 35,
+            "restTime": 30
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 50,
+            "restTime": 0
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 50,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 25,
+            "duration": 35,
+            "restTime": 30
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Advanced Cardio Equipment",
+      "Fitness Tracker"
+    ],
+    "expectedResults": [
+      "Enhanced endurance",
+      "Better stamina"
+    ],
+    "tips": [
+      "Stay motivated",
+      "Monitor your heart rate"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Strength Starter",
+    "level": "beginner",
+    "duration": 4,
+    "goal": "strength",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 10,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 12,
+            "duration": 25,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 15,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 3,
+            "reps": 10,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 12,
+            "duration": 25,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 15,
+            "duration": 20,
+            "restTime": 45
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Basic Gym Equipment"
+    ],
+    "expectedResults": [
+      "Improved strength",
+      "Better endurance"
+    ],
+    "tips": [
+      "Start slow",
+      "Focus on form"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Power Pump",
+    "level": "intermediate",
+    "duration": 6,
+    "goal": "muscle-gain",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 104,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 4,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 4,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 75
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Dumbbells",
+      "Resistance Bands"
+    ],
+    "expectedResults": [
+      "Increased muscle size",
+      "Improved definition"
+    ],
+    "tips": [
+      "Progressive overload",
+      "Maintain proper nutrition"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rapid Results",
+    "level": "beginner",
+    "duration": 3,
+    "goal": "weight-loss",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 35,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 45
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 35,
+            "restTime": 0
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 45
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 35,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Rest",
+        "exercises": []
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Jump Rope",
+      "Comfortable Shoes"
+    ],
+    "expectedResults": [
+      "Quick weight loss",
+      "Improved cardiovascular fitness"
+    ],
+    "tips": [
+      "Keep workouts intense",
+      "Monitor your progress"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Ultimate Endurance",
+    "level": "advanced",
+    "duration": 12,
+    "goal": "endurance",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 55,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 55,
+            "restTime": 0
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 30,
+            "duration": 35,
+            "restTime": 30
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 55,
+            "restTime": 0
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 55,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 30,
+            "duration": 35,
+            "restTime": 30
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Advanced Cardio Gear",
+      "Fitness Tracker"
+    ],
+    "expectedResults": [
+      "Maximized endurance",
+      "Improved recovery"
+    ],
+    "tips": [
+      "Maintain a steady pace",
+      "Stay motivated"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sculpt & Tone",
+    "level": "intermediate",
+    "duration": 8,
+    "goal": "strength",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 45
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Gym Access",
+      "Resistance Bands"
+    ],
+    "expectedResults": [
+      "Improved muscle tone",
+      "Enhanced strength"
+    ],
+    "tips": [
+      "Consistency is key",
+      "Mix up exercises"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Muscle Max",
+    "level": "advanced",
+    "duration": 10,
+    "goal": "muscle-gain",
+    "schedule": {
+      "day1": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 5,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 60
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 102,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 104,
+            "sets": 5,
+            "reps": 8,
+            "duration": 40,
+            "restTime": 90
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 5,
+            "reps": 10,
+            "duration": 35,
+            "restTime": 60
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Heavy Weights",
+      "Protein Shakes"
+    ],
+    "expectedResults": [
+      "Maximum muscle gain",
+      "Increased strength"
+    ],
+    "tips": [
+      "Proper nutrition is essential",
+      "Allow muscle recovery"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Lean Life",
+    "level": "beginner",
+    "duration": 5,
+    "goal": "weight-loss",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 45
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 40,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 45
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Gym Membership",
+      "Water Bottle"
+    ],
+    "expectedResults": [
+      "Steady weight loss",
+      "Better endurance"
+    ],
+    "tips": [
+      "Monitor calorie intake",
+      "Stay active daily"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fit & Fabulous",
+    "level": "intermediate",
+    "duration": 6,
+    "goal": "endurance",
+    "schedule": {
+      "day1": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day2": {
+        "focus": "Upper Body",
+        "exercises": [
+          {
+            "exerciseId": 101,
+            "sets": 3,
+            "reps": 10,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day3": {
+        "focus": "Lower Body",
+        "exercises": [
+          {
+            "exerciseId": 103,
+            "sets": 3,
+            "reps": 12,
+            "duration": 30,
+            "restTime": 60
+          }
+        ]
+      },
+      "day4": {
+        "focus": "Core",
+        "exercises": [
+          {
+            "exerciseId": 105,
+            "sets": 3,
+            "reps": 15,
+            "duration": 25,
+            "restTime": 45
+          }
+        ]
+      },
+      "day5": {
+        "focus": "Cardio",
+        "exercises": [
+          {
+            "exerciseId": 106,
+            "sets": 1,
+            "reps": 0,
+            "duration": 45,
+            "restTime": 0
+          }
+        ]
+      },
+      "day6": {
+        "focus": "Full Body",
+        "exercises": [
+          {
+            "exerciseId": 107,
+            "sets": 3,
+            "reps": 12,
+            "duration": 35,
+            "restTime": 60
+          }
+        ]
+      },
+      "day7": {
+        "focus": "Rest",
+        "exercises": []
+      }
+    },
+    "requirements": [
+      "Treadmill",
+      "Gym Access"
+    ],
+    "expectedResults": [
+      "Improved endurance",
+      "Balanced fitness"
+    ],
+    "tips": [
+      "Regularly track progress",
+      "Combine with balanced diet"
+    ]
+  }
+]

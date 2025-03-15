@@ -1,0 +1,1629 @@
+[
+  {
+    "id": 1,
+    "name": "Avocado Toast with Egg",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 5,
+    "calories": 350,
+    "macros": {
+      "protein": 15,
+      "carbs": 30,
+      "fats": 20,
+      "fiber": 7
+    },
+    "ingredients": [
+      "1 slice whole grain bread",
+      "1/2 avocado",
+      "1 egg",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Toast the bread.",
+      "Mash the avocado and spread it over the toast.",
+      "Cook the egg to your liking and place it on top.",
+      "Season with salt and pepper."
+    ],
+    "dietaryInfo": ["vegetarian"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/avocado_toast.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 2,
+    "name": "Quinoa Veggie Salad",
+    "category": "lunch",
+    "cuisine": "Mediterranean",
+    "prepTime": 15,
+    "cookTime": 20,
+    "calories": 420,
+    "macros": {
+      "protein": 12,
+      "carbs": 55,
+      "fats": 14,
+      "fiber": 8
+    },
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "1 cup cherry tomatoes",
+      "1 cucumber, diced",
+      "1/4 cup feta cheese",
+      "Olive oil",
+      "Lemon juice",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Mix quinoa, tomatoes, cucumber, and feta in a bowl.",
+      "Drizzle with olive oil and lemon juice.",
+      "Season with salt and pepper and toss well."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/quinoa_salad.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 3,
+    "name": "Grilled Chicken with Veggies",
+    "category": "dinner",
+    "cuisine": "American",
+    "prepTime": 20,
+    "cookTime": 25,
+    "calories": 500,
+    "macros": {
+      "protein": 40,
+      "carbs": 30,
+      "fats": 15,
+      "fiber": 6
+    },
+    "ingredients": [
+      "1 chicken breast",
+      "1 red bell pepper",
+      "1 zucchini",
+      "1 tbsp olive oil",
+      "Mixed herbs",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Season chicken with herbs, salt, and pepper.",
+      "Chop vegetables and toss with olive oil.",
+      "Grill chicken and vegetables until cooked through."
+    ],
+    "dietaryInfo": ["gluten-free", "paleo"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/grilled_chicken.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 4,
+    "name": "Berry Smoothie",
+    "category": "snack",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 220,
+    "macros": {
+      "protein": 6,
+      "carbs": 45,
+      "fats": 2,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 cup mixed berries",
+      "1 banana",
+      "1/2 cup Greek yogurt",
+      "1/2 cup almond milk"
+    ],
+    "instructions": [
+      "Combine all ingredients in a blender.",
+      "Blend until smooth and serve chilled."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/berry_smoothie.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 5,
+    "name": "Vegan Buddha Bowl",
+    "category": "lunch",
+    "cuisine": "Asian",
+    "prepTime": 25,
+    "cookTime": 20,
+    "calories": 480,
+    "macros": {
+      "protein": 14,
+      "carbs": 65,
+      "fats": 16,
+      "fiber": 10
+    },
+    "ingredients": [
+      "1 cup brown rice",
+      "1 cup steamed broccoli",
+      "1/2 cup roasted chickpeas",
+      "1/2 avocado, sliced",
+      "Mixed greens",
+      "Tahini dressing"
+    ],
+    "instructions": [
+      "Prepare brown rice as per instructions.",
+      "Steam broccoli and roast chickpeas with spices.",
+      "Assemble rice, greens, broccoli, chickpeas, and avocado in a bowl.",
+      "Drizzle with tahini dressing."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/buddha_bowl.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 6,
+    "name": "Oatmeal with Fruits",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 10,
+    "calories": 310,
+    "macros": {
+      "protein": 8,
+      "carbs": 55,
+      "fats": 6,
+      "fiber": 7
+    },
+    "ingredients": [
+      "1/2 cup rolled oats",
+      "1 cup water or almond milk",
+      "1 apple, diced",
+      "1 tsp cinnamon",
+      "Honey to taste"
+    ],
+    "instructions": [
+      "Cook oats with water or almond milk.",
+      "Stir in diced apple and cinnamon.",
+      "Drizzle with honey and serve warm."
+    ],
+    "dietaryInfo": ["vegetarian", "vegan"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/oatmeal_fruits.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 7,
+    "name": "Turkey Wrap",
+    "category": "lunch",
+    "cuisine": "Mexican",
+    "prepTime": 10,
+    "cookTime": 5,
+    "calories": 400,
+    "macros": {
+      "protein": 28,
+      "carbs": 35,
+      "fats": 12,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 whole wheat tortilla",
+      "3 slices turkey breast",
+      "Lettuce",
+      "Tomato slices",
+      "Mustard"
+    ],
+    "instructions": [
+      "Lay the tortilla flat.",
+      "Place turkey, lettuce, and tomato in the center.",
+      "Drizzle mustard and roll tightly."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/turkey_wrap.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 8,
+    "name": "Salmon with Asparagus",
+    "category": "dinner",
+    "cuisine": "Mediterranean",
+    "prepTime": 15,
+    "cookTime": 20,
+    "calories": 520,
+    "macros": {
+      "protein": 35,
+      "carbs": 20,
+      "fats": 28,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 salmon fillet",
+      "8 asparagus spears",
+      "Lemon slices",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Place salmon and asparagus on a baking tray.",
+      "Drizzle with olive oil, season, and top with lemon slices.",
+      "Bake for 20 minutes."
+    ],
+    "dietaryInfo": ["gluten-free", "paleo"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/salmon_asparagus.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 9,
+    "name": "Greek Yogurt Parfait",
+    "category": "breakfast",
+    "cuisine": "Greek",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 280,
+    "macros": {
+      "protein": 18,
+      "carbs": 35,
+      "fats": 6,
+      "fiber": 4
+    },
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/2 cup granola",
+      "1/2 cup mixed berries",
+      "Honey drizzle"
+    ],
+    "instructions": [
+      "Layer Greek yogurt, granola, and berries in a glass.",
+      "Drizzle with honey and serve immediately."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/yogurt_parfait.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 10,
+    "name": "Hummus and Veggie Plate",
+    "category": "snack",
+    "cuisine": "Middle Eastern",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 250,
+    "macros": {
+      "protein": 8,
+      "carbs": 20,
+      "fats": 14,
+      "fiber": 6
+    },
+    "ingredients": [
+      "1/2 cup hummus",
+      "Carrot sticks",
+      "Cucumber slices",
+      "Bell pepper strips"
+    ],
+    "instructions": [
+      "Arrange vegetables on a plate.",
+      "Serve with a side of hummus for dipping."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/hummus_plate.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 11,
+    "name": "Spinach Frittata",
+    "category": "breakfast",
+    "cuisine": "Italian",
+    "prepTime": 10,
+    "cookTime": 20,
+    "calories": 330,
+    "macros": {
+      "protein": 20,
+      "carbs": 10,
+      "fats": 22,
+      "fiber": 3
+    },
+    "ingredients": [
+      "4 eggs",
+      "1 cup fresh spinach",
+      "1/4 cup cherry tomatoes",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Whisk eggs with salt and pepper.",
+      "Mix in spinach and tomatoes.",
+      "Bake in an oven-safe skillet for 20 minutes."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/spinach_frittata.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 12,
+    "name": "Lentil Soup",
+    "category": "lunch",
+    "cuisine": "Middle Eastern",
+    "prepTime": 15,
+    "cookTime": 30,
+    "calories": 360,
+    "macros": {
+      "protein": 18,
+      "carbs": 50,
+      "fats": 8,
+      "fiber": 12
+    },
+    "ingredients": [
+      "1 cup lentils",
+      "1 carrot, diced",
+      "1 celery stalk, diced",
+      "1 onion, chopped",
+      "2 cloves garlic",
+      "4 cups vegetable broth",
+      "Cumin",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Sauté onion, garlic, carrot, and celery until soft.",
+      "Add lentils and broth, then season with cumin, salt, and pepper.",
+      "Simmer for 30 minutes until lentils are tender."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/lentil_soup.jpg",
+    "rating": 5,
+    "servings": 3
+  },
+  {
+    "id": 13,
+    "name": "Zucchini Noodles with Pesto",
+    "category": "dinner",
+    "cuisine": "Italian",
+    "prepTime": 15,
+    "cookTime": 10,
+    "calories": 310,
+    "macros": {
+      "protein": 10,
+      "carbs": 25,
+      "fats": 18,
+      "fiber": 5
+    },
+    "ingredients": [
+      "2 zucchinis (spiralized)",
+      "1/2 cup basil pesto",
+      "Cherry tomatoes",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Toss zucchini noodles with basil pesto.",
+      "Mix in halved cherry tomatoes and season with salt and pepper."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/zucchini_noodles.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 14,
+    "name": "Fruit Salad",
+    "category": "snack",
+    "cuisine": "International",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 200,
+    "macros": {
+      "protein": 3,
+      "carbs": 50,
+      "fats": 1,
+      "fiber": 6
+    },
+    "ingredients": [
+      "1 apple, cubed",
+      "1 orange, segmented",
+      "1 cup grapes",
+      "1 kiwi, sliced",
+      "Mint leaves"
+    ],
+    "instructions": [
+      "Combine all fruit in a bowl.",
+      "Garnish with mint leaves and serve chilled."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/fruit_salad.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 15,
+    "name": "Chia Pudding",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 270,
+    "macros": {
+      "protein": 8,
+      "carbs": 30,
+      "fats": 14,
+      "fiber": 10
+    },
+    "ingredients": [
+      "3 tbsp chia seeds",
+      "1 cup almond milk",
+      "1 tsp vanilla extract",
+      "1 tbsp maple syrup",
+      "Fresh berries"
+    ],
+    "instructions": [
+      "Mix chia seeds, almond milk, vanilla, and maple syrup in a jar.",
+      "Refrigerate overnight.",
+      "Top with fresh berries before serving."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/chia_pudding.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 16,
+    "name": "Chicken Caesar Salad",
+    "category": "lunch",
+    "cuisine": "Italian",
+    "prepTime": 15,
+    "cookTime": 15,
+    "calories": 450,
+    "macros": {
+      "protein": 30,
+      "carbs": 20,
+      "fats": 25,
+      "fiber": 4
+    },
+    "ingredients": [
+      "2 cups romaine lettuce",
+      "1 grilled chicken breast, sliced",
+      "1/4 cup Parmesan cheese",
+      "Caesar dressing",
+      "Croutons (optional)"
+    ],
+    "instructions": [
+      "Combine lettuce, chicken, and Parmesan in a bowl.",
+      "Toss with Caesar dressing and add croutons if desired."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/caesar_salad.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 17,
+    "name": "Beef Stir Fry",
+    "category": "dinner",
+    "cuisine": "Asian",
+    "prepTime": 15,
+    "cookTime": 15,
+    "calories": 480,
+    "macros": {
+      "protein": 35,
+      "carbs": 40,
+      "fats": 18,
+      "fiber": 5
+    },
+    "ingredients": [
+      "200g lean beef, sliced",
+      "1 bell pepper, sliced",
+      "1 cup broccoli florets",
+      "Soy sauce",
+      "Ginger",
+      "Garlic",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté garlic and ginger.",
+      "Add beef and vegetables, stir-frying until cooked.",
+      "Drizzle with soy sauce and serve hot."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/beef_stirfry.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 18,
+    "name": "Veggie Wrap",
+    "category": "lunch",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 370,
+    "macros": {
+      "protein": 10,
+      "carbs": 50,
+      "fats": 12,
+      "fiber": 8
+    },
+    "ingredients": [
+      "1 whole wheat wrap",
+      "Hummus",
+      "Mixed greens",
+      "Shredded carrots",
+      "Sliced bell peppers"
+    ],
+    "instructions": [
+      "Spread hummus evenly over the wrap.",
+      "Layer with greens, carrots, and bell peppers.",
+      "Roll tightly and slice in half."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/veggie_wrap.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 19,
+    "name": "Protein Pancakes",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 15,
+    "calories": 400,
+    "macros": {
+      "protein": 25,
+      "carbs": 45,
+      "fats": 10,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 mashed banana",
+      "2 eggs",
+      "1/4 cup rolled oats",
+      "1 scoop protein powder",
+      "Baking powder"
+    ],
+    "instructions": [
+      "Mix all ingredients until smooth.",
+      "Pour batter onto a heated pan and cook until bubbles form.",
+      "Flip and cook the other side."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/protein_pancakes.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 20,
+    "name": "Avocado Salad",
+    "category": "lunch",
+    "cuisine": "Mexican",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 350,
+    "macros": {
+      "protein": 8,
+      "carbs": 30,
+      "fats": 22,
+      "fiber": 9
+    },
+    "ingredients": [
+      "1 avocado, diced",
+      "1 tomato, chopped",
+      "1/2 red onion, thinly sliced",
+      "Cilantro",
+      "Lime juice",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Combine avocado, tomato, and onion in a bowl.",
+      "Toss with lime juice, cilantro, salt, and pepper."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/avocado_salad.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 21,
+    "name": "Shrimp & Broccoli Stir-Fry",
+    "category": "dinner",
+    "cuisine": "Asian",
+    "prepTime": 15,
+    "cookTime": 10,
+    "calories": 430,
+    "macros": {
+      "protein": 32,
+      "carbs": 28,
+      "fats": 16,
+      "fiber": 4
+    },
+    "ingredients": [
+      "200g shrimp, peeled",
+      "1 cup broccoli florets",
+      "1 red bell pepper, sliced",
+      "Soy sauce",
+      "Garlic",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté garlic.",
+      "Add shrimp and vegetables; stir-fry until shrimp is cooked.",
+      "Drizzle with soy sauce and serve."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/shrimp_stirfry.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 22,
+    "name": "Kale Chips",
+    "category": "snack",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 15,
+    "calories": 150,
+    "macros": {
+      "protein": 4,
+      "carbs": 10,
+      "fats": 8,
+      "fiber": 3
+    },
+    "ingredients": [
+      "1 bunch kale",
+      "1 tbsp olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Tear kale into bite-sized pieces.",
+      "Toss with olive oil and salt.",
+      "Bake at 350°F for 15 minutes until crispy."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/kale_chips.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 23,
+    "name": "Cottage Cheese Bowl",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 290,
+    "macros": {
+      "protein": 22,
+      "carbs": 18,
+      "fats": 12,
+      "fiber": 3
+    },
+    "ingredients": [
+      "1 cup low-fat cottage cheese",
+      "1/2 cup pineapple chunks",
+      "1 tbsp chia seeds",
+      "Honey drizzle"
+    ],
+    "instructions": [
+      "Mix cottage cheese with pineapple and chia seeds.",
+      "Drizzle honey on top and serve."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/cottage_cheese_bowl.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 24,
+    "name": "Tofu Stir Fry",
+    "category": "dinner",
+    "cuisine": "Asian",
+    "prepTime": 15,
+    "cookTime": 15,
+    "calories": 400,
+    "macros": {
+      "protein": 20,
+      "carbs": 35,
+      "fats": 18,
+      "fiber": 6
+    },
+    "ingredients": [
+      "200g firm tofu, cubed",
+      "1 cup mixed vegetables",
+      "Soy sauce",
+      "Ginger",
+      "Garlic",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Sauté garlic and ginger in oil.",
+      "Add tofu and vegetables; stir-fry until golden.",
+      "Season with soy sauce and serve."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/tofu_stirfry.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 25,
+    "name": "Caprese Salad",
+    "category": "lunch",
+    "cuisine": "Italian",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 330,
+    "macros": {
+      "protein": 12,
+      "carbs": 10,
+      "fats": 22,
+      "fiber": 3
+    },
+    "ingredients": [
+      "2 tomatoes, sliced",
+      "Fresh mozzarella, sliced",
+      "Basil leaves",
+      "Olive oil",
+      "Balsamic glaze",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Arrange tomato and mozzarella slices alternately on a plate.",
+      "Top with basil leaves.",
+      "Drizzle olive oil and balsamic glaze, then season with salt and pepper."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/caprese_salad.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 26,
+    "name": "Egg White Omelette",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 10,
+    "calories": 210,
+    "macros": {
+      "protein": 18,
+      "carbs": 4,
+      "fats": 10,
+      "fiber": 1
+    },
+    "ingredients": [
+      "4 egg whites",
+      "Spinach",
+      "Mushrooms, sliced",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Whisk egg whites with salt and pepper.",
+      "Pour into a heated pan and add spinach and mushrooms.",
+      "Cook until set and fold over."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/egg_white_omelette.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 27,
+    "name": "Stuffed Bell Peppers",
+    "category": "dinner",
+    "cuisine": "Mexican",
+    "prepTime": 20,
+    "cookTime": 30,
+    "calories": 450,
+    "macros": {
+      "protein": 22,
+      "carbs": 55,
+      "fats": 12,
+      "fiber": 8
+    },
+    "ingredients": [
+      "2 large bell peppers, halved and seeded",
+      "1 cup cooked brown rice",
+      "1/2 cup black beans",
+      "1 tomato, diced",
+      "Cumin",
+      "Chili powder",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Mix rice, black beans, tomato, and spices in a bowl.",
+      "Spoon the mixture into bell pepper halves.",
+      "Bake at 375°F for 30 minutes."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/stuffed_peppers.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 28,
+    "name": "Trail Mix",
+    "category": "snack",
+    "cuisine": "International",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 180,
+    "macros": {
+      "protein": 6,
+      "carbs": 20,
+      "fats": 10,
+      "fiber": 3
+    },
+    "ingredients": [
+      "Almonds",
+      "Walnuts",
+      "Raisins",
+      "Dried cranberries",
+      "Pumpkin seeds"
+    ],
+    "instructions": [
+      "Mix all ingredients together in a bowl.",
+      "Portion into snack-sized servings."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/trail_mix.jpg",
+    "rating": 4,
+    "servings": 3
+  },
+  {
+    "id": 29,
+    "name": "Paleo Chicken Salad",
+    "category": "lunch",
+    "cuisine": "American",
+    "prepTime": 15,
+    "cookTime": 10,
+    "calories": 390,
+    "macros": {
+      "protein": 32,
+      "carbs": 12,
+      "fats": 22,
+      "fiber": 4
+    },
+    "ingredients": [
+      "1 grilled chicken breast, shredded",
+      "Mixed greens",
+      "1/2 avocado, diced",
+      "Olive oil",
+      "Lemon juice",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Toss chicken with mixed greens and avocado.",
+      "Drizzle with olive oil and lemon juice.",
+      "Season with salt and pepper."
+    ],
+    "dietaryInfo": ["paleo", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/paleo_chicken_salad.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 30,
+    "name": "Banana Nut Oatmeal",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 10,
+    "calories": 350,
+    "macros": {
+      "protein": 10,
+      "carbs": 60,
+      "fats": 10,
+      "fiber": 6
+    },
+    "ingredients": [
+      "1/2 cup oats",
+      "1 cup water or milk",
+      "1 banana, sliced",
+      "A handful of walnuts",
+      "Cinnamon"
+    ],
+    "instructions": [
+      "Cook oats with water or milk.",
+      "Stir in sliced banana and walnuts.",
+      "Sprinkle with cinnamon and serve."
+    ],
+    "dietaryInfo": ["vegetarian"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/banana_oatmeal.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 31,
+    "name": "Veggie Burger",
+    "category": "lunch",
+    "cuisine": "American",
+    "prepTime": 20,
+    "cookTime": 15,
+    "calories": 430,
+    "macros": {
+      "protein": 18,
+      "carbs": 45,
+      "fats": 15,
+      "fiber": 8
+    },
+    "ingredients": [
+      "1 veggie burger patty",
+      "Whole grain bun",
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Mustard"
+    ],
+    "instructions": [
+      "Cook the veggie patty as directed.",
+      "Place in bun with lettuce, tomato, and onion.",
+      "Top with mustard and serve."
+    ],
+    "dietaryInfo": ["vegetarian"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/veggie_burger.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 32,
+    "name": "Baked Cod with Lemon",
+    "category": "dinner",
+    "cuisine": "Mediterranean",
+    "prepTime": 10,
+    "cookTime": 20,
+    "calories": 360,
+    "macros": {
+      "protein": 28,
+      "carbs": 10,
+      "fats": 16,
+      "fiber": 2
+    },
+    "ingredients": [
+      "1 cod fillet",
+      "Lemon slices",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Parsley"
+    ],
+    "instructions": [
+      "Place cod on a baking sheet.",
+      "Drizzle with olive oil and season with salt and pepper.",
+      "Top with lemon slices and bake at 400°F for 20 minutes.",
+      "Garnish with parsley."
+    ],
+    "dietaryInfo": ["gluten-free", "paleo"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/baked_cod.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 33,
+    "name": "Apple Cinnamon Smoothie",
+    "category": "snack",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 250,
+    "macros": {
+      "protein": 6,
+      "carbs": 50,
+      "fats": 4,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 apple, cored and chopped",
+      "1/2 cup Greek yogurt",
+      "1/2 cup almond milk",
+      "1/2 tsp cinnamon",
+      "Ice cubes"
+    ],
+    "instructions": [
+      "Combine all ingredients in a blender.",
+      "Blend until smooth and serve immediately."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/apple_smoothie.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 34,
+    "name": "Mushroom Omelette",
+    "category": "breakfast",
+    "cuisine": "French",
+    "prepTime": 10,
+    "cookTime": 10,
+    "calories": 300,
+    "macros": {
+      "protein": 18,
+      "carbs": 6,
+      "fats": 20,
+      "fiber": 2
+    },
+    "ingredients": [
+      "3 eggs",
+      "1/2 cup mushrooms, sliced",
+      "1 tbsp butter",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Sauté mushrooms in butter until tender.",
+      "Beat eggs with salt and pepper and pour over mushrooms.",
+      "Cook until set and fold in half."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/mushroom_omelette.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 35,
+    "name": "Quinoa Stuffed Peppers",
+    "category": "dinner",
+    "cuisine": "Mexican",
+    "prepTime": 20,
+    "cookTime": 30,
+    "calories": 400,
+    "macros": {
+      "protein": 14,
+      "carbs": 60,
+      "fats": 10,
+      "fiber": 9
+    },
+    "ingredients": [
+      "2 bell peppers, halved",
+      "1 cup cooked quinoa",
+      "1/2 cup corn kernels",
+      "1/2 cup black beans",
+      "Chili powder",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Mix quinoa, corn, black beans, and seasonings.",
+      "Fill pepper halves with the mixture.",
+      "Bake at 375°F for 30 minutes."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/quinoa_stuffed_peppers.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 36,
+    "name": "Mediterranean Salad",
+    "category": "lunch",
+    "cuisine": "Mediterranean",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 320,
+    "macros": {
+      "protein": 10,
+      "carbs": 28,
+      "fats": 18,
+      "fiber": 6
+    },
+    "ingredients": [
+      "Mixed greens",
+      "Kalamata olives",
+      "Feta cheese",
+      "Cucumber, sliced",
+      "Olive oil",
+      "Lemon juice",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Combine greens, olives, feta, and cucumber.",
+      "Drizzle with olive oil and lemon juice.",
+      "Season with salt and pepper."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/mediterranean_salad.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 37,
+    "name": "Peanut Butter Banana Toast",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 350,
+    "macros": {
+      "protein": 12,
+      "carbs": 45,
+      "fats": 14,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 slice whole grain bread",
+      "2 tbsp peanut butter",
+      "1 banana, sliced"
+    ],
+    "instructions": [
+      "Toast the bread.",
+      "Spread peanut butter over the toast.",
+      "Top with banana slices."
+    ],
+    "dietaryInfo": ["vegetarian"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/peanut_butter_banana_toast.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 38,
+    "name": "Zoodle Salad",
+    "category": "lunch",
+    "cuisine": "Italian",
+    "prepTime": 15,
+    "cookTime": 0,
+    "calories": 290,
+    "macros": {
+      "protein": 8,
+      "carbs": 22,
+      "fats": 18,
+      "fiber": 4
+    },
+    "ingredients": [
+      "2 zucchinis (spiralized)",
+      "Cherry tomatoes",
+      "Olives",
+      "Pesto dressing"
+    ],
+    "instructions": [
+      "Combine spiralized zucchini with cherry tomatoes and olives.",
+      "Toss with pesto dressing and serve."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/zoodle_salad.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 39,
+    "name": "Grilled Tofu with Veggies",
+    "category": "dinner",
+    "cuisine": "Asian",
+    "prepTime": 15,
+    "cookTime": 15,
+    "calories": 380,
+    "macros": {
+      "protein": 20,
+      "carbs": 30,
+      "fats": 18,
+      "fiber": 6
+    },
+    "ingredients": [
+      "200g firm tofu, sliced",
+      "1 cup broccoli florets",
+      "1 red bell pepper, sliced",
+      "Soy sauce",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Marinate tofu in soy sauce for 10 minutes.",
+      "Grill tofu and vegetables until slightly charred.",
+      "Serve hot with a drizzle of olive oil."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/grilled_tofu.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 40,
+    "name": "Energy Balls",
+    "category": "snack",
+    "cuisine": "International",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 150,
+    "macros": {
+      "protein": 5,
+      "carbs": 20,
+      "fats": 7,
+      "fiber": 3
+    },
+    "ingredients": [
+      "1 cup rolled oats",
+      "1/2 cup almond butter",
+      "2 tbsp honey",
+      "1/4 cup mini chocolate chips",
+      "Flax seeds"
+    ],
+    "instructions": [
+      "Mix all ingredients in a bowl.",
+      "Roll into small balls.",
+      "Refrigerate for 30 minutes before serving."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/energy_balls.jpg",
+    "rating": 5,
+    "servings": 4
+  },
+  {
+    "id": 41,
+    "name": "Blueberry Smoothie Bowl",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 320,
+    "macros": {
+      "protein": 12,
+      "carbs": 50,
+      "fats": 8,
+      "fiber": 7
+    },
+    "ingredients": [
+      "1 cup frozen blueberries",
+      "1/2 banana",
+      "1/2 cup Greek yogurt",
+      "1/4 cup almond milk",
+      "Toppings: granola, fresh berries"
+    ],
+    "instructions": [
+      "Blend blueberries, banana, yogurt, and almond milk until smooth.",
+      "Pour into a bowl and top with granola and fresh berries."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/blueberry_smoothie_bowl.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 42,
+    "name": "Chickpea Salad",
+    "category": "lunch",
+    "cuisine": "Middle Eastern",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 340,
+    "macros": {
+      "protein": 14,
+      "carbs": 40,
+      "fats": 12,
+      "fiber": 9
+    },
+    "ingredients": [
+      "1 can chickpeas, drained",
+      "Cucumber, diced",
+      "Tomatoes, chopped",
+      "Red onion, finely sliced",
+      "Olive oil",
+      "Lemon juice",
+      "Parsley",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Combine chickpeas, cucumber, tomatoes, and onion.",
+      "Dress with olive oil, lemon juice, salt, and pepper.",
+      "Garnish with chopped parsley and serve."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/chickpea_salad.jpg",
+    "rating": 4,
+    "servings": 2
+  },
+  {
+    "id": 43,
+    "name": "Grilled Turkey with Quinoa",
+    "category": "dinner",
+    "cuisine": "American",
+    "prepTime": 20,
+    "cookTime": 25,
+    "calories": 450,
+    "macros": {
+      "protein": 35,
+      "carbs": 35,
+      "fats": 14,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 turkey breast cutlet",
+      "1 cup cooked quinoa",
+      "Steamed broccoli",
+      "Olive oil",
+      "Herbs",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Season turkey with herbs, salt, and pepper.",
+      "Grill until cooked through.",
+      "Serve with quinoa and steamed broccoli drizzled with olive oil."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/grilled_turkey.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 44,
+    "name": "Mixed Nuts",
+    "category": "snack",
+    "cuisine": "International",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 200,
+    "macros": {
+      "protein": 6,
+      "carbs": 8,
+      "fats": 18,
+      "fiber": 3
+    },
+    "ingredients": [
+      "Almonds",
+      "Cashews",
+      "Pistachios",
+      "Walnuts"
+    ],
+    "instructions": [
+      "Mix all nuts together.",
+      "Serve a small handful as a snack."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/mixed_nuts.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 45,
+    "name": "Egg Muffins",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 20,
+    "calories": 250,
+    "macros": {
+      "protein": 16,
+      "carbs": 4,
+      "fats": 18,
+      "fiber": 1
+    },
+    "ingredients": [
+      "4 eggs",
+      "Spinach",
+      "Bell peppers, diced",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Whisk eggs with salt and pepper.",
+      "Mix in spinach and bell peppers.",
+      "Pour into muffin tins and bake at 375°F for 20 minutes."
+    ],
+    "dietaryInfo": ["gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/egg_muffins.jpg",
+    "rating": 5,
+    "servings": 4
+  },
+  {
+    "id": 46,
+    "name": "Mediterranean Quinoa Salad",
+    "category": "lunch",
+    "cuisine": "Mediterranean",
+    "prepTime": 15,
+    "cookTime": 15,
+    "calories": 410,
+    "macros": {
+      "protein": 14,
+      "carbs": 50,
+      "fats": 16,
+      "fiber": 7
+    },
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "Chopped cucumber",
+      "Cherry tomatoes",
+      "Red onion",
+      "Feta cheese",
+      "Olive oil",
+      "Lemon juice",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Combine all ingredients in a bowl.",
+      "Toss with olive oil, lemon juice, salt, and pepper."
+    ],
+    "dietaryInfo": ["vegetarian", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/mediterranean_quinoa_salad.jpg",
+    "rating": 5,
+    "servings": 2
+  },
+  {
+    "id": 47,
+    "name": "Baked Salmon with Veggies",
+    "category": "dinner",
+    "cuisine": "American",
+    "prepTime": 15,
+    "cookTime": 25,
+    "calories": 480,
+    "macros": {
+      "protein": 34,
+      "carbs": 18,
+      "fats": 22,
+      "fiber": 5
+    },
+    "ingredients": [
+      "1 salmon fillet",
+      "Assorted vegetables (broccoli, carrots, zucchini)",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Lemon"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Place salmon and vegetables on a baking tray.",
+      "Drizzle with olive oil, season, and bake for 25 minutes.",
+      "Squeeze lemon on top before serving."
+    ],
+    "dietaryInfo": ["gluten-free", "paleo"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/baked_salmon.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 48,
+    "name": "Green Smoothie",
+    "category": "snack",
+    "cuisine": "American",
+    "prepTime": 5,
+    "cookTime": 0,
+    "calories": 210,
+    "macros": {
+      "protein": 7,
+      "carbs": 40,
+      "fats": 3,
+      "fiber": 6
+    },
+    "ingredients": [
+      "1 cup spinach",
+      "1/2 banana",
+      "1/2 cup pineapple",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "instructions": [
+      "Blend all ingredients until smooth.",
+      "Pour into a glass and enjoy immediately."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/green_smoothie.jpg",
+    "rating": 4,
+    "servings": 1
+  },
+  {
+    "id": 49,
+    "name": "Avocado Berry Toast",
+    "category": "breakfast",
+    "cuisine": "American",
+    "prepTime": 10,
+    "cookTime": 0,
+    "calories": 360,
+    "macros": {
+      "protein": 10,
+      "carbs": 40,
+      "fats": 18,
+      "fiber": 7
+    },
+    "ingredients": [
+      "1 slice multigrain bread",
+      "1/2 avocado",
+      "Mixed berries",
+      "Honey",
+      "Chia seeds"
+    ],
+    "instructions": [
+      "Toast the bread.",
+      "Spread mashed avocado on top.",
+      "Add mixed berries and drizzle with honey.",
+      "Sprinkle with chia seeds."
+    ],
+    "dietaryInfo": ["vegetarian"],
+    "difficulty": "easy",
+    "imageUrl": "http://example.com/avocado_berry_toast.jpg",
+    "rating": 5,
+    "servings": 1
+  },
+  {
+    "id": 50,
+    "name": "Vegetable Stir Fry",
+    "category": "dinner",
+    "cuisine": "Asian",
+    "prepTime": 15,
+    "cookTime": 15,
+    "calories": 400,
+    "macros": {
+      "protein": 12,
+      "carbs": 45,
+      "fats": 14,
+      "fiber": 8
+    },
+    "ingredients": [
+      "1 cup broccoli florets",
+      "1 carrot, sliced",
+      "1 bell pepper, sliced",
+      "Snow peas",
+      "Soy sauce",
+      "Garlic",
+      "Ginger",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté garlic and ginger.",
+      "Add all vegetables and stir-fry until tender-crisp.",
+      "Drizzle with soy sauce and serve hot."
+    ],
+    "dietaryInfo": ["vegan", "gluten-free"],
+    "difficulty": "medium",
+    "imageUrl": "http://example.com/vegetable_stirfry.jpg",
+    "rating": 4,
+    "servings": 2
+  }
+]

@@ -1,0 +1,88 @@
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  width="500"
+  height="300"
+  viewBox="0 0 500 300"
+>
+  <!-- 
+    Refined approximation of the FitFortune logo. 
+    - Two ellipses with gradients
+    - Central bar
+    - Two lines of text
+  -->
+
+  <!-- ============ DEFINITIONS ============ -->
+  <defs>
+    <!-- Gradient for left loop -->
+    <linearGradient id="leftLoopGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#819F8F" />
+      <stop offset="100%" stop-color="#6E8C7D" />
+    </linearGradient>
+
+    <!-- Gradient for right loop -->
+    <linearGradient id="rightLoopGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2F3B35" />
+      <stop offset="100%" stop-color="#46554D" />
+    </linearGradient>
+  </defs>
+
+  <!-- ============ LOOPS ============ -->
+  <!-- Left loop (ellipse) -->
+  <ellipse
+    cx="190"
+    cy="130"
+    rx="70"
+    ry="70"
+    fill="url(#leftLoopGradient)"
+  />
+
+  <!-- Right loop (ellipse) -->
+  <ellipse
+    cx="310"
+    cy="130"
+    rx="70"
+    ry="70"
+    fill="url(#rightLoopGradient)"
+  />
+
+  <!-- ============ CENTER BAR ============ -->
+  <rect
+    x="160"
+    y="115"
+    width="180"
+    height="30"
+    fill="#2F3B35"
+    rx="5"  <!-- Slightly rounded corners, if desired -->
+    ry="5"
+  />
+
+  <!-- ============ TEXT ============ -->
+  <!-- "FITFORTUNE" -->
+  <text
+    x="250"  <!-- Centered horizontally (since viewBox width = 500) -->
+    y="220"
+    text-anchor="middle"
+    fill="#2F3B35"
+    font-family="Montserrat, sans-serif"
+    font-size="36"
+    font-weight="600"
+    letter-spacing="2"
+  >
+    FITFORTUNE
+  </text>
+
+  <!-- "HEALTH & FITNESS" -->
+  <text
+    x="250" 
+    y="255"
+    text-anchor="middle"
+    fill="#2F3B35"
+    font-family="Montserrat, sans-serif"
+    font-size="16"
+    font-weight="400"
+    letter-spacing="2"
+  >
+    HEALTH & FITNESS
+  </text>
+</svg>

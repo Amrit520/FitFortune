@@ -1,0 +1,135 @@
+/* ... existing styles ... */
+
+/* Cursor Effect Styles */
+.cursor-effect {
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  mix-blend-mode: difference;
+  will-change: transform;
+}
+
+/* Main cursor dot */
+.cursor-dot {
+  position: fixed;
+  width: 6px;
+  height: 6px;
+  background-color: rgba(34, 197, 94, 0.8);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 10000;
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+/* Plus sign cursor */
+.cursor-plus {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cursor-plus::before,
+.cursor-plus::after {
+  content: "";
+  position: absolute;
+  background-color: rgba(34, 197, 94, 0.8);
+  filter: drop-shadow(0 0 2px rgba(34, 197, 94, 0.5));
+}
+
+.cursor-plus::before {
+  width: 14px;
+  height: 3px;
+}
+
+.cursor-plus::after {
+  width: 3px;
+  height: 14px;
+}
+
+/* Trail plus signs */
+.trail-plus {
+  position: fixed;
+  width: 12px;
+  height: 12px;
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8;
+  animation: fadeOut 1s forwards;
+}
+
+.trail-plus::before,
+.trail-plus::after {
+  content: "";
+  position: absolute;
+  background-color: rgba(34, 197, 94, 0.6);
+  filter: drop-shadow(0 0 3px rgba(34, 197, 94, 0.7));
+}
+
+.trail-plus::before {
+  width: 10px;
+  height: 2px;
+}
+
+.trail-plus::after {
+  width: 2px;
+  height: 10px;
+}
+
+/* Sparkle effect */
+.sparkle {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background-color: rgba(34, 197, 94, 0.9);
+  border-radius: 50%;
+  filter: drop-shadow(0 0 2px rgba(34, 197, 94, 1));
+  animation: sparkleAnim 0.8s forwards;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 0.8;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.5);
+  }
+}
+
+@keyframes sparkleAnim {
+  0% {
+    opacity: 1;
+    transform: scale(1) translate(0, 0);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0) translate(
+      calc(var(--x) * 15px),
+      calc(var(--y) * 15px)
+    );
+  }
+}
+
+/* Hover animation when over clickable elements */
+.clickable-element:hover ~ .cursor-dot {
+  background-color: rgba(34, 197, 94, 1);
+  transform: translate(-50%, -50%) scale(1.5);
+}
+
+.clickable-element:hover ~ .cursor-plus::before,
+.clickable-element:hover ~ .cursor-plus::after {
+  background-color: rgba(34, 197, 94, 1);
+  filter: drop-shadow(0 0 4px rgba(34, 197, 94, 0.8));
+}

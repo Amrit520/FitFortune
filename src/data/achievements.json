@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Workout Rookie",
+    "description": "Awarded for completing your first workout session.",
+    "category": "workout",
+    "requirement": "Finish your first workout.",
+    "points": 5,
+    "icon": "https://example.com/icons/workout_rookie.png",
+    "rarity": "common"
+  },
+  {
+    "id": 2,
+    "name": "Workout Enthusiast",
+    "description": "Earned by logging workouts consistently for a week.",
+    "category": "workout",
+    "requirement": "Complete 7 workouts in 7 days.",
+    "points": 10,
+    "icon": "https://example.com/icons/workout_enthusiast.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 3,
+    "name": "Workout Pro",
+    "description": "Recognizes advanced performance and regular training.",
+    "category": "workout",
+    "requirement": "Accumulate 20 workout sessions.",
+    "points": 20,
+    "icon": "https://example.com/icons/workout_pro.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 4,
+    "name": "Workout Legend",
+    "description": "For those who have reached extraordinary fitness levels.",
+    "category": "workout",
+    "requirement": "Complete 50 intense workouts.",
+    "points": 30,
+    "icon": "https://example.com/icons/workout_legend.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 5,
+    "name": "Cardio Crusher",
+    "description": "For smashing through cardio goals and setting a strong pace.",
+    "category": "workout",
+    "requirement": "Achieve 100 minutes of cardio in one session.",
+    "points": 10,
+    "icon": "https://example.com/icons/cardio_crusher.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 6,
+    "name": "Strength Starter",
+    "description": "Beginners who have started their strength training journey.",
+    "category": "workout",
+    "requirement": "Complete your first strength training session.",
+    "points": 5,
+    "icon": "https://example.com/icons/strength_starter.png",
+    "rarity": "common"
+  },
+  {
+    "id": 7,
+    "name": "Endurance Expert",
+    "description": "For demonstrating superior stamina and perseverance.",
+    "category": "workout",
+    "requirement": "Run continuously for 30 minutes.",
+    "points": 20,
+    "icon": "https://example.com/icons/endurance_expert.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 8,
+    "name": "Flexibility Fanatic",
+    "description": "Honors those who consistently practice stretching and mobility.",
+    "category": "workout",
+    "requirement": "Complete 10 dedicated flexibility sessions.",
+    "points": 10,
+    "icon": "https://example.com/icons/flexibility_fanatic.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 9,
+    "name": "HIIT Hero",
+    "description": "For excelling in high intensity interval training routines.",
+    "category": "workout",
+    "requirement": "Complete 5 HIIT sessions in one week.",
+    "points": 20,
+    "icon": "https://example.com/icons/hiit_hero.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 10,
+    "name": "Calisthenics Champ",
+    "description": "Awarded for mastering bodyweight exercises and routines.",
+    "category": "workout",
+    "requirement": "Finish 15 bodyweight exercise sessions.",
+    "points": 30,
+    "icon": "https://example.com/icons/calisthenics_champ.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 11,
+    "name": "Fitness Freak",
+    "description": "For those who live and breathe fitness daily.",
+    "category": "workout",
+    "requirement": "Log workouts every day for 30 consecutive days.",
+    "points": 10,
+    "icon": "https://example.com/icons/fitness_freak.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 12,
+    "name": "Gym Grinder",
+    "description": "Recognizes your commitment to training hard at the gym.",
+    "category": "workout",
+    "requirement": "Complete 25 gym sessions.",
+    "points": 20,
+    "icon": "https://example.com/icons/gym_grinder.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 13,
+    "name": "Workout Warrior",
+    "description": "For overcoming challenges and pushing through limits.",
+    "category": "workout",
+    "requirement": "Achieve a personal best in 3 different workouts.",
+    "points": 30,
+    "icon": "https://example.com/icons/workout_warrior.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 14,
+    "name": "Nutrition Novice",
+    "description": "Beginners are recognized for starting a healthy eating journey.",
+    "category": "nutrition",
+    "requirement": "Log your first healthy meal.",
+    "points": 5,
+    "icon": "https://example.com/icons/nutrition_novice.png",
+    "rarity": "common"
+  },
+  {
+    "id": 15,
+    "name": "Healthy Eater",
+    "description": "For consistently choosing nutritious food options.",
+    "category": "nutrition",
+    "requirement": "Record 7 days of healthy meals.",
+    "points": 10,
+    "icon": "https://example.com/icons/healthy_eater.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 16,
+    "name": "Balanced Dieter",
+    "description": "Awarded for maintaining a well-balanced diet over time.",
+    "category": "nutrition",
+    "requirement": "Maintain a balanced diet for 14 days.",
+    "points": 20,
+    "icon": "https://example.com/icons/balanced_dieter.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 17,
+    "name": "Meal Prep Master",
+    "description": "For those who plan and prepare their meals in advance.",
+    "category": "nutrition",
+    "requirement": "Complete 10 meal prep sessions.",
+    "points": 30,
+    "icon": "https://example.com/icons/meal_prep_master.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 18,
+    "name": "Vitamin Voyager",
+    "description": "Recognizes dedication to incorporating essential vitamins into meals.",
+    "category": "nutrition",
+    "requirement": "Include a variety of fruits and vegetables for 7 days.",
+    "points": 10,
+    "icon": "https://example.com/icons/vitamin_voyager.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 19,
+    "name": "Smoothie Specialist",
+    "description": "For creating and enjoying nutrient-packed smoothies.",
+    "category": "nutrition",
+    "requirement": "Make 5 different healthy smoothies.",
+    "points": 20,
+    "icon": "https://example.com/icons/smoothie_specialist.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 20,
+    "name": "Clean Eating Champion",
+    "description": "Awarded for a commitment to a clean and natural diet.",
+    "category": "nutrition",
+    "requirement": "Follow a clean eating plan for 21 days.",
+    "points": 30,
+    "icon": "https://example.com/icons/clean_eating_champion.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 21,
+    "name": "Diet Detective",
+    "description": "For tracking and analyzing your eating habits.",
+    "category": "nutrition",
+    "requirement": "Keep a detailed food diary for 7 days.",
+    "points": 5,
+    "icon": "https://example.com/icons/diet_detective.png",
+    "rarity": "common"
+  },
+  {
+    "id": 22,
+    "name": "Foodie Fanatic",
+    "description": "Recognizes a passion for exploring healthy recipes.",
+    "category": "nutrition",
+    "requirement": "Try and review 5 new healthy recipes.",
+    "points": 10,
+    "icon": "https://example.com/icons/foodie_fanatic.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 23,
+    "name": "Calorie Counter",
+    "description": "For effectively tracking daily calorie intake.",
+    "category": "nutrition",
+    "requirement": "Log calories for 14 consecutive days.",
+    "points": 20,
+    "icon": "https://example.com/icons/calorie_counter.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 24,
+    "name": "Superfood Seeker",
+    "description": "Awarded for incorporating superfoods into your diet.",
+    "category": "nutrition",
+    "requirement": "Eat at least 3 different superfoods every week for a month.",
+    "points": 10,
+    "icon": "https://example.com/icons/superfood_seeker.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 25,
+    "name": "Nutrition Guru",
+    "description": "For achieving expert-level knowledge in healthy eating.",
+    "category": "nutrition",
+    "requirement": "Attend a nutrition seminar or complete an online course.",
+    "points": 30,
+    "icon": "https://example.com/icons/nutrition_guru.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 26,
+    "name": "Social Starter",
+    "description": "For engaging with the community for the first time.",
+    "category": "social",
+    "requirement": "Post your first comment or share.",
+    "points": 5,
+    "icon": "https://example.com/icons/social_starter.png",
+    "rarity": "common"
+  },
+  {
+    "id": 27,
+    "name": "Community Connector",
+    "description": "Earned by connecting with other members in the community.",
+    "category": "social",
+    "requirement": "Make 5 new connections or friendships.",
+    "points": 10,
+    "icon": "https://example.com/icons/community_connector.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 28,
+    "name": "Buddy Builder",
+    "description": "For building strong bonds with fellow fitness enthusiasts.",
+    "category": "social",
+    "requirement": "Participate in a group challenge.",
+    "points": 20,
+    "icon": "https://example.com/icons/buddy_builder.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 29,
+    "name": "Friendship Facilitator",
+    "description": "Recognizes efforts to foster supportive social interactions.",
+    "category": "social",
+    "requirement": "Host or organize a community workout.",
+    "points": 10,
+    "icon": "https://example.com/icons/friendship_facilitator.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 30,
+    "name": "Supportive Socializer",
+    "description": "Awarded for regularly supporting and encouraging others.",
+    "category": "social",
+    "requirement": "Comment positively on 20 posts.",
+    "points": 20,
+    "icon": "https://example.com/icons/supportive_socializer.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 31,
+    "name": "Team Player",
+    "description": "For actively participating in team challenges and events.",
+    "category": "social",
+    "requirement": "Join 3 team events or challenges.",
+    "points": 30,
+    "icon": "https://example.com/icons/team_player.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 32,
+    "name": "Challenge Chatter",
+    "description": "Earned by engaging in discussions around challenges.",
+    "category": "social",
+    "requirement": "Start or contribute to 10 challenge threads.",
+    "points": 5,
+    "icon": "https://example.com/icons/challenge_chatter.png",
+    "rarity": "common"
+  },
+  {
+    "id": 33,
+    "name": "Motivation Maven",
+    "description": "For inspiring others with your motivational posts.",
+    "category": "social",
+    "requirement": "Share 5 motivational stories or quotes.",
+    "points": 10,
+    "icon": "https://example.com/icons/motivation_maven.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 34,
+    "name": "Social Butterfly",
+    "description": "Recognizes an active presence across community platforms.",
+    "category": "social",
+    "requirement": "Interact with 50 different users.",
+    "points": 20,
+    "icon": "https://example.com/icons/social_butterfly.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 35,
+    "name": "Engagement Expert",
+    "description": "For achieving high engagement on your posts and comments.",
+    "category": "social",
+    "requirement": "Receive 100 likes or comments on posts.",
+    "points": 30,
+    "icon": "https://example.com/icons/engagement_expert.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 36,
+    "name": "Collaboration Connoisseur",
+    "description": "Awarded for successful collaboration with community members.",
+    "category": "social",
+    "requirement": "Collaborate on 3 community projects.",
+    "points": 10,
+    "icon": "https://example.com/icons/collaboration_connoisseur.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 37,
+    "name": "Community Champion",
+    "description": "For outstanding contributions and leadership within the community.",
+    "category": "social",
+    "requirement": "Lead a community event or challenge.",
+    "points": 30,
+    "icon": "https://example.com/icons/community_champion.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 38,
+    "name": "Milestone Achiever",
+    "description": "Awarded for reaching your first major fitness milestone.",
+    "category": "milestone",
+    "requirement": "Hit your first fitness goal.",
+    "points": 5,
+    "icon": "https://example.com/icons/milestone_achiever.png",
+    "rarity": "common"
+  },
+  {
+    "id": 39,
+    "name": "Goal Getter",
+    "description": "Recognizes consistent progress toward set goals.",
+    "category": "milestone",
+    "requirement": "Achieve 5 consecutive goals.",
+    "points": 10,
+    "icon": "https://example.com/icons/goal_getter.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 40,
+    "name": "Progress Pioneer",
+    "description": "For trailblazing progress and breaking personal records.",
+    "category": "milestone",
+    "requirement": "Beat your personal best in 3 different activities.",
+    "points": 20,
+    "icon": "https://example.com/icons/progress_pioneer.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 41,
+    "name": "Success Seeker",
+    "description": "Awarded for persistent effort towards achieving success.",
+    "category": "milestone",
+    "requirement": "Maintain progress for 30 consecutive days.",
+    "points": 30,
+    "icon": "https://example.com/icons/success_seeker.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 42,
+    "name": "Challenge Conqueror",
+    "description": "For overcoming a series of difficult challenges.",
+    "category": "milestone",
+    "requirement": "Complete 10 high-difficulty challenges.",
+    "points": 10,
+    "icon": "https://example.com/icons/challenge_conqueror.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 43,
+    "name": "Persistent Performer",
+    "description": "Recognizes relentless commitment and consistency.",
+    "category": "milestone",
+    "requirement": "Exercise daily for 60 days.",
+    "points": 20,
+    "icon": "https://example.com/icons/persistent_performer.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 44,
+    "name": "Dedication Dynamo",
+    "description": "For demonstrating extraordinary dedication to your goals.",
+    "category": "milestone",
+    "requirement": "Achieve a long-term goal after 6 months of effort.",
+    "points": 30,
+    "icon": "https://example.com/icons/dedication_dynamo.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 45,
+    "name": "Ambition Architect",
+    "description": "Awarded for setting ambitious goals and working towards them.",
+    "category": "milestone",
+    "requirement": "Outline and begin work on 3 major goals.",
+    "points": 10,
+    "icon": "https://example.com/icons/ambition_architect.png",
+    "rarity": "rare"
+  },
+  {
+    "id": 46,
+    "name": "Victory Voyager",
+    "description": "For traveling the path to victory in your fitness journey.",
+    "category": "milestone",
+    "requirement": "Achieve a significant victory in a challenge.",
+    "points": 20,
+    "icon": "https://example.com/icons/victory_voyager.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 47,
+    "name": "Triumph Tracker",
+    "description": "Recognizes every win and significant accomplishment.",
+    "category": "milestone",
+    "requirement": "Log 10 triumphs in your fitness journey.",
+    "points": 30,
+    "icon": "https://example.com/icons/triumph_tracker.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 48,
+    "name": "Milestone Master",
+    "description": "Awarded for consistently reaching and surpassing milestones.",
+    "category": "milestone",
+    "requirement": "Achieve 5 major milestones.",
+    "points": 20,
+    "icon": "https://example.com/icons/milestone_master.png",
+    "rarity": "epic"
+  },
+  {
+    "id": 49,
+    "name": "Achievement Ace",
+    "description": "For collecting a wide range of achievements along your journey.",
+    "category": "milestone",
+    "requirement": "Earn 20 different badges.",
+    "points": 30,
+    "icon": "https://example.com/icons/achievement_ace.png",
+    "rarity": "legendary"
+  },
+  {
+    "id": 50,
+    "name": "Goal Guardian",
+    "description": "Recognizes your ability to protect and achieve your goals.",
+    "category": "milestone",
+    "requirement": "Maintain your goal streak for 45 days.",
+    "points": 10,
+    "icon": "https://example.com/icons/goal_guardian.png",
+    "rarity": "rare"
+  }
+]
