@@ -4,7 +4,10 @@
 
 A simple nutrition tracking application that helps users track their meals, water intake, and nutritional goals.
 
-![FitFortune Banner](assets/fitfortune_banner.png)
+![FitFortune Banner](src/assets/Logo.png)
+![FitFortune Banner](src/assets/testcase1)
+![FitFortune Banner](src/assets/testcase2)
+![FitFortune Banner](src/assets/testcase3)
 
 ## Setup Instructions
 
